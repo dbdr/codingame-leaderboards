@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=451,time=2023-01-12 01:18:11
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=451,time=2023-01-13 01:23:57
 100	62940	2077805	C++	bamilan	
 100	62937	2288263	Rust	dbdr	
 100	62936	977117	C++	Psyho	
@@ -100,6 +100,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=451,time=2023-01-12 01:18:11
 100	28762	1412263	PHP	PatrickMcGinnisII	
 100	28611	4935186	Python3	Gabay	
 100	28329	3131821	C#	Minejona	
+100	27891	508460	C++	Volia	
 100	26775	2837454	Java	Inc_	
 100	26616	4420742	Python3	Mortis_666	
 100	26538	848394	Java	schwarzahl	
@@ -162,7 +163,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=451,time=2023-01-12 01:18:11
 100	17951	4917607	TypeScript	Filip_Razek	
 100	17900	4859684	Java	PaRy	
 100	17886	1082937	C#	Wololo	
-100	17594	508460	C++	Volia	
 100	17290	2802157	Python3	HKit	
 100	17276	3382273	Python3	hasleron	
 100	17120	4917275	Python3	k1one44	

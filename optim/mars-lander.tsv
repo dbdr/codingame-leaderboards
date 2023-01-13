@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6145,time=2023-01-12 01:17:38
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6150,time=2023-01-13 01:23:25
 100	2509	1327028	C++	FredericBautista	
 100	2507	154372	Bash	Plopx	
 100	2504	1249786	C#	Fededevi	
@@ -208,6 +208,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6145,time=2023-01-12 01:17:38
 100	2286	3533119	C++	wlesavo	
 100	2285	2316796	Java	Psio	
 100	2285	4640032	Java	mkomar	
+100	2285	1671884	C++	cocoto	
 100	2284	848989	Java	revever	
 100	2284	3478926	C	Alexis.D	
 100	2284	2536589	Java	mjfcolas	
@@ -739,6 +740,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6145,time=2023-01-12 01:17:38
 100	1991	5262513	Java	seperatis	
 100	1991	5271888	Java	UserSlayer	
 100	1991	5212989	Java	DivyanshuRathore	
+100	1991	5212988	Java	ojoshi	
+100	1991	4904327	Java	shwe6	
 100	1990	876163	C#	AY1111	
 100	1990	1393802	Python3	amzh	
 100	1990	3762699	C	Nolliwood	
@@ -974,6 +977,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6145,time=2023-01-12 01:17:38
 100	1902	1095278	C#	MR23	
 100	1902	4206218	C#	Jerrasterix	
 100	1900	1939276	C	Gautitho	
+100	1900	5142291	C++	AceOfBase	
 100	1899	2937215	Python3	bubi24	
 100	1899	4695112	Javascript	Maxime01	
 100	1899	4730289	Python3	Claypiston	
@@ -995,7 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6145,time=2023-01-12 01:17:38
 100	1894	2410595	Javascript	weblp	
 100	1894	2850117	C++	CodeMasterApp	
 100	1893	1248730	Python3	GYoRC	
-100	1893	3691366	Java	V90	
-100	1893	2575020	Javascript	iDash	
-100	1893	4866820	Python3	tinuviel60	
-100	1892	1217777	C#	EthDra	

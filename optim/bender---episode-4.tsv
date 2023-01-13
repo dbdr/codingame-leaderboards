@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=285,time=2023-01-12 01:17:53
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=285,time=2023-01-13 01:23:39
 100	1570	4618693	PHP	cedricdd	
 100	1596	3918583	Rust	mikmak	
 100	1675	2288263	Rust	dbdr	
@@ -17,6 +17,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=285,time=2023-01-12 01:17:53
 100	2208	1001096	C#	MyIIone	
 100	2243	1436776	C++	BrainSolver	
 100	2274	2311105	C++	kovi	
+100	2276	4050016	Python3	CharlesSenemaud	
 100	2301	2510531	Python3	Jamproject	
 100	2342	2924895	C	trictrac	
 100	2364	1687754	Java	cg123	
@@ -43,7 +44,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=285,time=2023-01-12 01:17:53
 100	2817	3480498	Java	BenPix	
 100	2852	924425	Javascript	poney	
 100	2865	992329	C++	BeeGee	
-100	2933	4050016	Python3	CharlesSenemaud	
 100	2934	2522090	C++	MSmits	
 100	3046	4526264	Python3	cly	
 100	3054	614215	Java	Jo	
