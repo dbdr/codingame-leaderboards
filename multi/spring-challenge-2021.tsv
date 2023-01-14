@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8020,time=2023-01-13 01:21:27
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8023,time=2023-01-14 00:41:58
 5	43.95	1400179	3665384	C++	reCurse	
 5	39.58	3457031	3873772	C++	YurkovAS	
 5	38.2	4300424	3704114	Rust	kurnevsky	
@@ -429,7 +429,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8020,time=2023-01-13 01:21:
 4	39.33	1330431	3669512	Python3	TzeKin	
 4	39.33	3360287	3667165	Python3	lucdubos	
 4	39.32	4062794	3665743	Javascript	Passi10	
-4	39.32	382375	3667224	Javascript	Piz	
+4	39.31	382375	3667224	Javascript	Piz	
 4	39.31	1205008	3665103	Java	Trisard	
 4	39.3	1073240	3666505	Python3	IvanSchro	
 4	39.29	4090777	3666688	Java	neilnh	
@@ -783,9 +783,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8020,time=2023-01-13 01:21:
 4	34.73	199887	3674508	C#	Sanpas	
 4	34.73	3821174	3665736	Python3	yuusanlondon	
 4	34.73	3503664	3666943	Python3	egos	
-4	34.73	811622	3666663	C++	Scarfield	
 4	34.73	1109907	3668137	Javascript	polpoul	
 4	34.73	2868392	3665694	Javascript	marwane.ka	
+4	34.73	811622	3666663	C++	Scarfield	
 4	34.72	4058112	3667941	C++	SadRojer	
 4	34.7	401638	3671494	Python3	dcshin	
 4	34.68	3452059	3677774	Java	_Vincent_	

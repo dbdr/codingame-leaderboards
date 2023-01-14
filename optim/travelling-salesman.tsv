@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=374,time=2023-01-13 01:23:55
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=376,time=2023-01-14 00:42:15
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
@@ -98,6 +98,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=374,time=2023-01-13 01:23:55
 100	219228	1131528	C#	Owl	
 100	219619	4044949	Java	Exanc	
 100	219855	3938395	C++	Quentin18	
+100	220260	4031451	Java	pbou	
 100	220943	4562865	Python3	VilBoub_junior	
 100	221207	2765000	Javascript	Nowan	
 100	221328	4069504	Python3	ElBoudah	
@@ -154,7 +155,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=374,time=2023-01-13 01:23:55
 100	239897	311035	Python3	leojean890	
 100	240036	1852668	Java	gao	
 100	240083	888898	C++	helgui	
-100	240663	4031451	Java	pbou	
 100	240691	4562860	Python3	clxm	
 100	240723	3657937	Python3	elderlybeginner	
 100	240723	2616395	Javascript	welder	
@@ -287,6 +287,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=374,time=2023-01-13 01:23:55
 100	250555	2765655	C#	El_Mono_Sin_Sombra	
 100	250555	4258711	Python3	FredericLocquet	
 100	250555	3904540	Python3	Queuebee	
+100	250555	4935186	Python3	Gabay	
 100	250784	1179357	Rust	avdg	
 100	251611	4954542	Python3	Drunkey	
 100	252346	4610806	C#	Nickythita	
@@ -297,6 +298,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=374,time=2023-01-13 01:23:55
 100	258239	992549	Java	Thaddy	
 100	261258	5120434	Python3	Juanito86	
 100	268561	4062203	C++	soraie	
+100	274661	3857428	C#	phile13	
 100	310436	4245841	C++	ADsun	
 100	316387	4537924	C++	ArtesScytale	
 100	328546	1132011	C#	pci	

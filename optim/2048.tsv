@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1009,time=2023-01-13 01:23:53
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1010,time=2023-01-14 00:42:15
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353552	2436448	C++	FrancoisMeme	
@@ -106,13 +106,13 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1009,time=2023-01-13 01:23:53
 100	6040172	1638419	Java	Quent21	
 100	5820284	1807733	Python3	NoZ-	
 100	5769228	3826720	C++	Noppo	
+100	5524872	1077559	Java	PhOeNyX	
 100	5518472	884874	D	Zauberer	
 100	5059552	2405889	Kotlin	Saivo	
 100	5005228	4205154	C++	tuna_in_cream	
 100	4966560	1162014	Java	Bojan	
 100	4834488	4672487	TypeScript	inem	
 100	4731152	3738782	C#	Inaniwa	
-100	4681288	1077559	Java	PhOeNyX	
 100	4658788	3165536	C++	barbora	
 100	4551296	2258829	C#	Hiker	
 100	4354272	1566335	Java	BeardedWhale	
@@ -193,6 +193,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1009,time=2023-01-13 01:23:53
 100	981320	1473789	C++	jebouin	
 100	941900	3473364	Rust	Alexdelia	
 100	930052	3141948	Java	philRG	
+100	920260	2874091	Python3	5DN1L	
 100	918632	2315158	Java	luigi_gelato	
 100	894468	3812486	Javascript	gitKad	
 100	801432	4288724	Java	RenardFute	
@@ -204,6 +205,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1009,time=2023-01-13 01:23:53
 100	710608	3755551	C++	Zeffar	
 100	709680	3496153	Python3	lndshs	
 100	643904	1452327	Rust	solmir	
+100	637796	3729666	C++	peerdb	
 100	607052	2978314	Python3	guir	
 100	600680	1861852	Javascript	Cramer	
 100	560876	4745511	C#	Markus88	
@@ -211,7 +213,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1009,time=2023-01-13 01:23:53
 100	474760	2290633	Python3	field3	
 100	457352	4259902	Python3	Nalisco	
 100	435988	273004	Python3	ptitrex	
-100	434884	2874091	Python3	5DN1L	
 100	415156	182536	C	dbo	
 100	407312	1479930	C++	LeRenard	
 100	404300	199887	C#	Sanpas	
@@ -363,6 +364,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1009,time=2023-01-13 01:23:53
 100	73820	5063232	C++	Dasha_Gnedko	
 100	72348	1588583	Python3	dANNs	
 100	71408	3563934	C#	ChuckTheNinja	
+100	71032	4282530	Python3	Dururu	
 100	70900	2364617	C++	RomainPicot	
 100	70852	4136008	Python3	jerry_laevis	
 100	70600	3068678	Python3	DrSilverstone	
@@ -991,11 +993,9 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1009,time=2023-01-13 01:23:53
 100	344	5149581	C#	ThoCo	
 100	344	5213896	Python3		
 100	344	5214116	Python3	Ledey	
-100	344	3729666	C++	peerdb	
 100	344	5032884	C++	hashbrownmap	
 100	344	5283244	C++	saw.03	
 100	300	4094683	Python3	Loes	
 100	300	275626	Javascript	GreyMoon	
 100	300	3487406	C#	SyvachenkoMK	
 100	300	4379624	Bash	KamadoTanjiro	
-100	252	1931701	Java	anissh	

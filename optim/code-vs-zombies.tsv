@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=16533,time=2023-01-13 01:23:30
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=16547,time=2023-01-14 00:42:12
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -30,10 +30,10 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=16533,time=2023-01-13 01:23:30
 100	639440	2557590	Kotlin	raaperrotta	
 100	624280	820000	C++	ValGrowth	
 100	611130	837350	C++	BorisZ	
+100	602470	1485690	C++	Kikoo	
 100	543500	1273065	C++	TheRadical	
 100	511870	1728326	C++	yduf	
 100	505510	1549145	C++	Mealc	
-100	499560	1485690	C++	Kikoo	
 100	496310	893541	Java	wala	
 100	494650	4070745	C	HoriMiyamura	
 100	487200	862919	C++	Astrobytes	
@@ -309,6 +309,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=16533,time=2023-01-13 01:23:30
 100	213710	1705689	Java	XanX3601	
 100	213510	4340101	C	Rjvfelix	
 100	213400	230015	C++	Kolo9	
+100	213210	4005030	C	MaxiLaw	
 100	212920	1284747	C++	mr-push	
 100	212780	3298022	C	IKEJIME	
 100	212770	154935	Scala	yamo	
@@ -568,6 +569,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=16533,time=2023-01-13 01:23:30
 100	157250	1896128	Python3	Vhanire	
 100	156030	1162034	C#	krakeusz	
 100	155950	4437214	C++		
+100	155380	1483234	C#	jbl	
 100	155050	1588583	Python3	dANNs	
 100	154980	414278	Java	oobException	
 100	154470	1551921	C++	konanTheBarbar	
@@ -629,6 +631,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=16533,time=2023-01-13 01:23:30
 100	137140	2077458	Python3	Ragi	
 100	136940	2188797	Go	comdiv	
 100	136020	4514305	PHP	Lauri.Kase	
+100	135320	4140181	Python3	BirneHugo	
 100	134980	893915	Python3	DeVoTeD	
 100	134860	1737611	Javascript	RPlusPlus	
 100	134750	1173260	Rust	Erasmus	
@@ -996,6 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=16533,time=2023-01-13 01:23:30
 100	66190	411147	C#	HunterX	
 100	66140	3066640	Java	MaherYounsi	
 100	66120	1015754	Python3	Sinek	
-100	66120	1703003	Java	SteamR	
-100	66110	1158993	Java	SWGA_Glitch	
-100	66090	4592535	Python3	Misfits09	

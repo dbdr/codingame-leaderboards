@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2562,time=2023-01-13 01:22:33
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2563,time=2023-01-14 00:42:06
 6	26.21	1400179	2086196	C++	reCurse	
 6	25.94	1841051	2086085	C++	0xbeefed	
 6	25.86	1896128	2086118	Python3	Vhanire	
@@ -767,8 +767,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2562,time=2023-01-13 01:22:
 3	22.69	5134379	4527954	Python3	JCLV	
 3	22.64	2493861	3495875	C++	40647043S	
 3	22.62	3084976	2304459	Python3	JayP	
+3	22.6	2047762	2189741	Python3	jabaa	
 3	22.57	3779295	3781103	Python3	xxd	
-3	22.54	2047762	2189741	Python3	jabaa	
 3	22.52	1694898	3438871	C++	tcchiang	
 3	22.52	2545748	2317824	Java	sybernatuz	
 3	22.49	3768904	3459102	Python3	LuYang99	
@@ -811,7 +811,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2562,time=2023-01-13 01:22:
 3	22.15	2027039	3125126	Python3	bofHeidelberg	
 3	22.14	3714230	2743254	Python3	StephenIMT	
 3	22.14	2400928	2065805	Python3	Gilsidoo	
-3	22.13	3666944	2680689	C++	BronxTaco	
 3	22.12	1724069	3860070	F#	jmpeg	
 3	22.12	4637082	3959594	Java	mazomat	
 3	22.11	2482916	2550708	Python3	TobeChanged	
@@ -871,7 +870,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2562,time=2023-01-13 01:22:
 3	21.64	1981732	2065357	F#	MJS	
 3	21.63	1461866	2068474	Java	Spacebird1313	
 3	21.63	1530429	2345617	Python3	Michiel	
-3	21.61	2642273	3061821	Python3	Pluk	
+3	21.62	2642273	3061821	Python3	Pluk	
 3	21.61	2335979	2986306	C	JulienFv	
 3	21.6	3776353	2826241	C++	Enegas	
 3	21.59	909782	3162032	Go	Harkness	
@@ -951,7 +950,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2562,time=2023-01-13 01:22:
 3	20.49	3616128	2633874	Swift	cayZ	
 3	20.49	3432825	4073116	Python3	felixs1105	
 3	20.46	2968929	2129520	C++	Kamas2408	
-3	20.44	1288168	2883085	Python3	Nebkaure	
+3	20.45	1288168	2883085	Python3	Nebkaure	
 3	20.42	2727498	2065483	Javascript	Vilvalas	
 3	20.41	3316577	3873660	Python3	Tete-de-Steak	
 3	20.41	1979001	3959693	Java	Pier1	
@@ -999,3 +998,4 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2562,time=2023-01-13 01:22:
 3	19.91	2448855	2280265	Python3	g0u6	
 3	19.91	1861300	2802197	TypeScript	Jakkyl	
 3	19.91	1466631	2621049	Python3	Akrib	
+3	19.91	3056815	2454462	C#	Nitor	
