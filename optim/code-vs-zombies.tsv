@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=16547,time=2023-01-14 00:42:12
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=16561,time=2023-01-15 02:05:50
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -412,6 +412,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=16547,time=2023-01-14 00:42:12
 100	195170	4763549	C++	BlaiseEbuth_	
 100	195040	4193469	Rust	yannick-t	
 100	195000	925695	OCaml	Boulet	
+100	194990	4140181	C	BirneHugo	
 100	194890	2521360	C	g.naboychenko	
 100	194710	4827859	C	00unknown	
 100	194440	1018437	C++	dubicube	
@@ -631,7 +632,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=16547,time=2023-01-14 00:42:12
 100	137140	2077458	Python3	Ragi	
 100	136940	2188797	Go	comdiv	
 100	136020	4514305	PHP	Lauri.Kase	
-100	135320	4140181	Python3	BirneHugo	
 100	134980	893915	Python3	DeVoTeD	
 100	134860	1737611	Javascript	RPlusPlus	
 100	134750	1173260	Rust	Erasmus	

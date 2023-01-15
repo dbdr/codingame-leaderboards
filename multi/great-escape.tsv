@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4124,time=2023-01-14 00:41:56
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4125,time=2023-01-15 01:36:35
 5	33.53	494104	960105	C++	Recar	
 5	33.01	3457031	3994469	C++	YurkovAS	
 5	31.65	3533119	3994180	C++	wlesavo	
@@ -883,13 +883,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4124,time=2023-01-14 00:41:
 3	26.5	884874	1627758	C	Zauberer	
 3	26.36	990157	963265	Javascript	Micrologist	
 3	26.36	816229	1121050	Python	Gamadzila	
+3	26.36	4252234	3495817	C++	Nzk	
 3	26.34	825150	938000	Python	Laochao	
 3	26.34	330929	937993	Java	shilov	
 3	26.34	2581271	1838748	Java	BaffettiBis	
 3	26.34	4276140	4083263	C++	WeZ	
 3	26.34	1167615	1081761	C++	TylerDurden	
 3	26.33	3101644	2482638	Java	HerrHagner	
-3	26.29	4252234	3495817	C++	Nzk	
 3	26.29	816462	937709	Python	hype	
 3	26.28	1122412	938128	Java	TheNinja	
 3	26.24	3289937	2324831	Java	TheAgents	
@@ -923,8 +923,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4124,time=2023-01-14 00:41:
 3	25.67	1294909	937942	Java	Priscus	
 3	25.65	834043	937997	C#	Benoit74B	
 3	25.59	2455124	2475576	C	agiordan	
-3	25.52	871430	937581	Java	Arkandias	
 3	25.49	816936	937984	Python3	aurimukas	
+3	25.44	871430	937581	Java	Arkandias	
 3	25.44	1181768	1212921	Java	dio_O	
 3	25.44	1926322	1212463	Java	ANewHope2017	
 3	25.42	2847829	3339835	C++	bcwaitwaiter	

@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8348,time=2023-01-14 00:42:01
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8348,time=2023-01-15 01:36:40
 5	34.21	2577687	4261360	C++	blasterpoard	
 5	34.1	4802230	4264019	C++	Nanaeda	
 5	33.85	2907009	4306619	C#	Arnaud.Net	
@@ -614,7 +614,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8348,time=2023-01-14 00:42:
 4	27.37	4875378	4262750	Java	alexhimself	
 4	27.05	3244897	4263872	Java	Romii	
 4	26.84	3828059	4258881	Bash	Valphyr1	
-4	26.72	2200074	4260961	Python3	Aripse	
+4	26.71	2200074	4260961	Python3	Aripse	
 4	26.44	3910987	4262888	Javascript	InfiniteVR	
 4	26.32	4045062	4262919	TypeScript	ChaosCat	
 4	26.2	492970	4259176	Python3	Kromak	
@@ -970,7 +970,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8348,time=2023-01-14 00:42:
 4	20.97	4301550	4264821	C	Sabenson	
 4	20.97	2025987	4266309	C++	Cham	
 4	20.97	4871770	4258769	PHP	Nairb18	
-4	20.96	3165536	4259897	C#	barbora	
 4	20.95	4075567	4264195	C++	magist3r	
 4	20.95	1896941	4262068	Python3	Bluepioupiou	
 4	20.95	4850412	4261371	Python3	Jbat1Jumper	
@@ -997,5 +996,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8348,time=2023-01-14 00:42:
 4	20.79	523846	4259664	C#	Palmipedus	
 4	20.78	2796534	4261129	TypeScript	Vadrek	
 4	20.78	2290633	4321185	Python3	field3	
+4	20.78	3165536	4259897	C#	barbora	
 4	20.76	4059043	4263765	Java	DziTiEn	
 4	20.75	3795474	4262788	Rust	.o0TVP0o.	

@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=376,time=2023-01-14 00:42:15
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=377,time=2023-01-15 02:05:53
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
@@ -188,6 +188,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=376,time=2023-01-14 00:42:15
 100	250215	3826720	C++	Noppo	
 100	250215	3439872	Python3	xdcomrade	
 100	250215	4585938	Python3	Risodu	
+100	250215	3904540	Python3	Queuebee	
 100	250469	3485888	Python3	FelixO	
 100	250506	3436807	Python3	Ahmed_Bahri	
 100	250555	4685891	Python3	Laki_42	
@@ -286,8 +287,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=376,time=2023-01-14 00:42:15
 100	250555	5149711	Python3	burdanas	
 100	250555	2765655	C#	El_Mono_Sin_Sombra	
 100	250555	4258711	Python3	FredericLocquet	
-100	250555	3904540	Python3	Queuebee	
 100	250555	4935186	Python3	Gabay	
+100	250555	5289808	Python3	repierre	
 100	250784	1179357	Rust	avdg	
 100	251611	4954542	Python3	Drunkey	
 100	252346	4610806	C#	Nickythita	
