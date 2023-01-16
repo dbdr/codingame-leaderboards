@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=377,time=2023-01-15 02:05:53
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=379,time=2023-01-16 00:41:03
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
@@ -168,6 +168,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=377,time=2023-01-15 02:05:53
 100	245296	4534733	Python3	Damko757	
 100	245952	1712335	Python3	Antoine-caron	
 100	246313	1306289	Python3	Jasperr	
+100	246661	5149711	Python3	burdanas	
 100	246872	999637	Python3	dinobogan	
 100	247220	4717007	Python3	Anktinosia	
 100	247258	4718620	Pascal	Hieronymus	
@@ -284,7 +285,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=377,time=2023-01-15 02:05:53
 100	250555	4781063	Python3	Nicholi	
 100	250555	5191138	C++	Esther013	
 100	250555	4050016	Python3	CharlesSenemaud	
-100	250555	5149711	Python3	burdanas	
 100	250555	2765655	C#	El_Mono_Sin_Sombra	
 100	250555	4258711	Python3	FredericLocquet	
 100	250555	4935186	Python3	Gabay	
@@ -331,6 +331,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=377,time=2023-01-15 02:05:53
 100	1320334	2364617	C++	RomainPicot	
 100	1320334	425462	Python3	Azt-yur	
 100	1320334	5104003	Python3	defplayr	
+100	1320334	5291869	Python3		
 100	1326249	4865140	Go	demetedPufferfish	
 100	1389300	5118339	Javascript	pen2	
 100	1609568	4815186	Javascript	Nab1ee	
@@ -356,6 +357,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=377,time=2023-01-15 02:05:53
 100	2219406	3889087	Java	NaturelOUI	
 100	2219406	5134828	Python3	Asgerion	
 100	2219406	3596611	C++	Dan4Life	
+100	2219406	5247835	Python3	roottreej	
 100	2223289	3136787	Python3	jacek	
 100	2784200	4211056	C#	Nachosauce	
 100	3211740	1378958	C#	Illedan	

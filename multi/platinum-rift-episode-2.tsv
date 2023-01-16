@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1898,time=2023-01-15 01:36:38
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1899,time=2023-01-16 00:30:13
 0	46.39	1400179	2090524	C++	reCurse	
 0	45.18	1629259	2339355	C++	Marchete	
 0	44.79	2288263	2418174	Rust	dbdr	
@@ -43,7 +43,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1898,time=2023-01-15 01:36:
 0	38.19	193315	258942	Java	hau	
 0	37.86	805067	508879	C++	Magus	
 0	37.6	507383	249402	C#	Vadasz	
-0	37.39	389175	257170	Java	Folkenn84	
+0	37.38	389175	257170	Java	Folkenn84	
 0	37.24	2522090	4288198	C#	MSmits	
 0	37.24	199773	3012669	Python3	jonasbru	
 0	36.41	3235897	3021516	Java	Zylo	
@@ -245,7 +245,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1898,time=2023-01-15 01:36:
 0	27.18	2993655	2131801	C#	TJNewton	
 0	27.17	909992	1428457	C++	PluC	
 0	27.15	1904803	3953524	Python3	Martijnjvdd	
-0	27.15	678820	259737	C#	Naimor	
+0	27.14	678820	259737	C#	Naimor	
 0	27.1	1183644	371681	C++	Donotalo	
 0	27.1	2668147	2718712	Python3	Mayennavirus	
 0	27.08	525864	3430050	C++	ATwice	
@@ -580,9 +580,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1898,time=2023-01-15 01:36:
 0	23.02	2077978	1392554	Python3	MichelLaviron	
 0	23	773590	306089	C++	PetasIII	
 0	23	1848087	1230597	Javascript	Morahk	
-0	22.98	3528069	2661965	C++	Iont	
 0	22.98	1010476	3006158	C	Migrou	
 0	22.98	1379357	415651	C++	didw	
+0	22.97	3528069	2661965	C++	Iont	
 0	22.97	2806374	2432675	Python3	BigArt	
 0	22.96	1673466	1129048	C#	moare	
 0	22.96	155856	257362	Java	simovitch	
@@ -926,13 +926,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1898,time=2023-01-15 01:36:
 0	18.27	383410	316381	Python	NewbiZ	
 0	18.26	520696	254563	C#	nico91470fr	
 0	18.26	3475384	2519865	Python3	viatorem	
+0	18.26	3204588	2254483	C++	rayleigh18	
 0	18.26	417847	256730	Python	buz76190	
 0	18.25	250398	251401	C	Otherend	
 0	18.25	943556	310663	C++	DollarAkshay	
 0	18.24	1367760	475129	Java	eithelgul	
 0	18.24	2853783	3036489	C++	AdrDer	
 0	18.24	1109999	784023	PHP	Peorthyr	
-0	18.24	3204588	2254483	C++	rayleigh18	
 0	18.24	633783	255446	PHP	Ugatza	
 0	18.23	1395362	416038	Ruby	DragonWarlock	
 0	18.22	567777	255225	Java	[GTS]	

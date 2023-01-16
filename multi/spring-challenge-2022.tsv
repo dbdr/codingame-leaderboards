@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8348,time=2023-01-15 01:36:40
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8349,time=2023-01-16 00:30:14
 5	34.21	2577687	4261360	C++	blasterpoard	
 5	34.1	4802230	4264019	C++	Nanaeda	
 5	33.85	2907009	4306619	C#	Arnaud.Net	
@@ -120,7 +120,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8348,time=2023-01-15 01:36:
 5	25.27	1457162	4264517	Python3	JFB	
 5	25.27	4438822	4287032	Python3	ludodul	
 5	25.26	4909898	4305902	Python3	Chupeto	
-5	25.25	4612757	4276384	C++	ael-bekk	
+5	25.25	4612757	4276384	C++	AlgoAce	
 5	25.23	154388	4267130	Rust	PonyPonyCodeCode	
 5	25.11	484004	4285584	C#	aCat	
 5	25.04	4317053	4261164	Python3	Tamather	
@@ -630,7 +630,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8348,time=2023-01-15 01:36:
 4	26.09	4820224	4258595	Java	cyborgCookie	
 4	26.08	3551741	4261366	Go	MorphiX00	
 4	26.05	1421067	4263933	C#	EraStormbringer	
-4	26.04	5052454	4476936	Python3	chris.steele	
+4	26.03	5052454	4476936	Python3	chris.steele	
 4	26	1729763	4267361	Java	Silverup	
 4	25.94	2155916	4267332	Python3	ButterflyEA	
 4	25.92	3283415	4522137	D	Bon[]Crayon	
@@ -688,11 +688,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8348,time=2023-01-15 01:36:
 4	23.95	4869523	4266610	Python3	Tkachoff	
 4	23.94	4564296	4699249	Kotlin	Yevhen_Sibahatullin	
 4	23.93	4283515	4289206	PHP	FrancoisBaveye	
-4	23.82	1944904	4261620	Go	etherealy	
 4	23.81	2874091	4261887	Python3	5DN1L	
 4	23.79	4789874	4266469	Python3	Cubicity	
 4	23.78	2143560	4267183	C++	ashiknur	
 4	23.77	925695	4267711	OCaml	Boulet	
+4	23.76	1944904	4261620	Go	etherealy	
 4	23.75	545951	4260342	C++	AntonT	
 4	23.72	5104410	4473472	C++	Dracaufeu	
 4	23.71	329214	4264178	TypeScript	Mookymook49	
@@ -726,9 +726,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8348,time=2023-01-15 01:36:
 4	23.41	2246554	4266316	Kotlin	HKamil	
 4	23.35	311035	4447498	Python3	leojean890	
 4	23.34	4581886	4262109	Python3	Guiik	
+4	23.33	1579924	4267452	Rust	sourlime	
 4	23.31	4288193	4259288	Javascript	MniDK09	
 4	23.29	1178569	4262075	Java	Azerrr	
-4	23.28	1579924	4267452	Rust	sourlime	
 4	23.28	3145247	4263621	TypeScript	Benllshua	
 4	23.27	3501342	4258841	C#	madddmax	
 4	23.26	4599485	4260044	Python3	Emerg	
@@ -792,7 +792,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8348,time=2023-01-15 01:36:
 4	22.84	3436478	4259653	Python3	liferocks	
 4	22.83	1378958	4269272	C#	Illedan	
 4	22.82	1854639	4261670	C#	iDxMeG	
-4	22.82	2128673	4703479	Python3	larrymotter	
 4	22.79	4052722	4263622	C++	ClockSort	
 4	22.76	2718963	4262662	PHP	Fregat	
 4	22.72	2102813	4258597	Python3	DLNoob	
@@ -904,7 +903,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8348,time=2023-01-15 01:36:
 4	21.88	3809155	4259056	Java	Myssteriion	
 4	21.8	4327920	4258966	Python3	yana87	
 4	21.8	4614333	4261532	Javascript	Lakera	
-4	21.79	2927878	4263936	Rust	ikd	
 4	21.76	896747	4260450	Javascript	Ab33	
 4	21.74	3951098	4261763	Python3	SlurpasGasskagg	
 4	21.72	3299614	4261721	C++	JoJoJoJoJoJoJoJoJoJoJoJo	
@@ -914,6 +912,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8348,time=2023-01-15 01:36:
 4	21.64	4843722	4261354	C	AlaeEddine	
 4	21.63	4059573	4260921	Java	alexrbro	
 4	21.63	1158733	4262419	C++	atimaly	
+4	21.63	2927878	4263936	Rust	ikd	
 4	21.61	3938500	4261419	Go	evanforCodin	
 4	21.6	1479552	4263100	Python3	Tom1	
 4	21.58	3730284	4261619	Javascript	k-g-a	
@@ -984,7 +983,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8348,time=2023-01-15 01:36:
 4	20.89	1988483	4371164	C#	Uhrond	
 4	20.88	1582306	4267226	Rust	AbsorbantLight	
 4	20.87	4093861	4266603	TypeScript	masterada	
-4	20.84	4323412	4263174	Java	LeProblemeEDMN	
+4	20.85	4323412	4263174	Java	LeProblemeEDMN	
 4	20.83	1106056	4261135	Kotlin	Bzn0r-Karloid	
 4	20.81	3736976	4266881	C#	olka2g	
 4	20.81	3467515	4266344	Java	Neuminix	
@@ -999,3 +998,4 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=8348,time=2023-01-15 01:36:
 4	20.78	3165536	4259897	C#	barbora	
 4	20.76	4059043	4263765	Java	DziTiEn	
 4	20.75	3795474	4262788	Rust	.o0TVP0o.	
+4	20.73	1186571	4262884	C++	madeska	

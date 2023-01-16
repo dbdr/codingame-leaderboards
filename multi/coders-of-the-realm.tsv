@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=70,time=2023-01-15 01:55:30
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=71,time=2023-01-16 00:30:19
 3	31.46	2311105	4429726	C++	kovi	
 3	30.83	1186250	4422825	C#	Gabbek	
 3	29.7	1500515	3375667	C#	eulerscheZahl	
@@ -50,22 +50,23 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=70,time=2023-01-15 01:55:30
 1	5.64	4436271	4452759	Python3	Ayza	
 1	2.46	4420742	4397295	Java	Mortis_666	
 0	15.57	2631176	3810326	PHP	Sedera	
-0	7.52	1883670	4398230	Javascript	radekmie	
-0	7.52	3344383	4404138	C++	Czejoo	
-0	7.52	1713174	2683174	Python3	BigUP	
-0	7.51	4844414	4074238	Python3	AirportMaster	
-0	7.51	3386139	3027710	Python3	MaliciouslyCrypticUsername	
-0	7.51	523846	2828228	C#	Palmipedus	
-0	7.51	4183089	3985091	Python3	PringleOrange	
-0	7.51	4730320	3995520	Python3	LeDebutantJeconnaisRienAuCode	
-0	7.51	4756693	4024406	Python3	MorningWalk	
-0	7.51	1038359	3378552	Python3	Ronnie147	
-0	7.51	2779063	4397228	Python3	LegendsOfCodeAndMagic	
-0	7.5	3808031	3116670	Ruby	_proton	
-0	7.5	484004	3516700	Python3	aCat	
-0	7.5	3464590	3012280	C	abbecool	
-0	7.5	2325449	2985364	Perl	otpv	
-0	7.5	1854639	2995988	C#	iDxMeG	
-0	7.5	1341520	3002283	Java	egaetan	
-0	7.49	4282042	4397278	Java	aCatAI	
+0	7.63	1883670	4398230	Javascript	radekmie	
+0	7.63	4183089	3985091	Python3	PringleOrange	
+0	7.6	1038359	3378552	Python3	Ronnie147	
+0	7.59	3808031	3116670	Ruby	_proton	
+0	7.57	3344383	4404138	C++	Czejoo	
+0	7.56	4844414	4074238	Python3	AirportMaster	
+0	7.55	2779063	4397228	Python3	LegendsOfCodeAndMagic	
+0	7.55	3464590	3012280	C	abbecool	
+0	7.55	4730320	3995520	Python3	LeDebutantJeconnaisRienAuCode	
+0	7.55	4282042	4397278	Java	aCatAI	
+0	7.55	1713174	2683174	Python3	BigUP	
+0	7.55	1341520	3002283	Java	egaetan	
+0	7.54	523846	2828228	C#	Palmipedus	
+0	7.53	1854639	2995988	C#	iDxMeG	
+0	7.53	484004	3516700	Python3	aCat	
+0	7.53	3386139	3027710	Python3	MaliciouslyCrypticUsername	
+0	7.51	2325449	2985364	Perl	otpv	
+0	7.5	4756693	4024406	Python3	MorningWalk	
 0	7.49	4626700	3955748	PHP	JohnyDarecek	
+0	7.36	2824008	4707929	C#	OccitanieFreelancer	

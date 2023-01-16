@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1010,time=2023-01-15 02:05:53
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1011,time=2023-01-16 00:41:03
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353552	2436448	C++	FrancoisMeme	
@@ -617,6 +617,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1010,time=2023-01-15 02:05:53
 100	33416	4756693	Python3	MorningWalk	
 100	33244	4419628	Python3	.fill.	
 100	33196	3358232	Python3	JessR	
+100	33160	5292178	C	MiaN.	
 100	33136	2079953	Python3	yaya92	
 100	32792	1288527	C++	Snef	
 100	32776	4673640	Python3	manhin	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1010,time=2023-01-15 02:05:53
 100	300	4094683	Python3	Loes	
 100	300	275626	Javascript	GreyMoon	
 100	300	3487406	C#	SyvachenkoMK	
-100	300	4379624	Bash	KamadoTanjiro	

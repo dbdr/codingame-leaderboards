@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=40,time=2023-01-15 01:55:27
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=41,time=2023-01-16 00:30:17
 3	36.64	2924895	4554949	C	trictrac	
 3	34.39	893541	4434093	Java	wala	
 3	33.7	3457031	4554451	C	YurkovAS	
@@ -31,11 +31,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=40,time=2023-01-15 01:55:27
 1	8.67	4341304	4497363	C++	Remi.	
 1	5.92	1479930	4434884	C++	LeRenard	
 1	4.61	1071140	4703955	C#	BeberLeNewbie	
-0	16.48	2583545	4449351	C#	Kewko	
-0	9.95	4626700	4491718	PHP	JohnyDarecek	
-0	9.45	3857811	4490165	Python3	KidsTech50000	
-0	9.21	2508635	4433250	Java	hemhel	
-0	9.19	3470270	4490878	Java	Tabaxi3K	
-0	8.83	3569066	4470443	VB.NET	derjack	
-0	2.55	4275200	4655540	C++	Laverdo	
-0	-5.23	3478673	4694087	PHP	never-again	
+0	16.33	2583545	4449351	C#	Kewko	
+0	10.33	4626700	4491718	PHP	JohnyDarecek	
+0	10.12	3857811	4490165	Python3	KidsTech50000	
+0	9.45	2824008	4707976	C#	OccitanieFreelancer	
+0	9.16	2508635	4433250	Java	hemhel	
+0	9.07	3569066	4470443	VB.NET	derjack	
+0	8.5	3470270	4490878	Java	Tabaxi3K	
+0	2.26	4275200	4655540	C++	Laverdo	
+0	-5.36	3478673	4694087	PHP	never-again	

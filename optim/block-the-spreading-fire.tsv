@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=452,time=2023-01-15 02:05:53
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=452,time=2023-01-16 00:41:03
 100	62940	2077805	C++	bamilan	
 100	62937	2288263	Rust	dbdr	
 100	62936	977117	C++	Psyho	
@@ -101,6 +101,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=452,time=2023-01-15 02:05:53
 100	28762	1412263	PHP	PatrickMcGinnisII	
 100	28611	4935186	Python3	Gabay	
 100	28329	3131821	C#	Minejona	
+100	27703	5163410	Java	LOKI_78	
 100	26775	2837454	Java	Inc_	
 100	26616	4420742	Python3	Mortis_666	
 100	26538	848394	Java	schwarzahl	
@@ -111,7 +112,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=452,time=2023-01-15 02:05:53
 100	26136	735997	TypeScript	PhilippeGeek	
 100	25716	1200604	Java	Alos	
 100	25616	1201796	Java	P.Greze	
-100	25563	5163410	Java	LOKI_78	
 100	25314	4832181	Java	VisualDev-FR	
 100	25294	4083405	C++	jzen	
 100	24423	4053233	Python3	Tidurus	
@@ -271,7 +271,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=452,time=2023-01-15 02:05:53
 100	200	4935185	Swift	WolferWolfy	
 100	200	4872827	Java	DannyTheChamp	
 100	128	4831078	Javascript	Apollo_o	
-100	107	4612757	C++	ael-bekk	
+100	107	4612757	C++	AlgoAce	
 100	106	723476	Python3	NeoPhnx	
 100	0	3354337	C++	Westicles	
 100	0	4451820	Python3	Teiglin	
