@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1432,time=2023-01-16 00:41:01
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1434,time=2023-01-17 00:41:57
 100	11920	2077805	C++	bamilan	
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
@@ -47,6 +47,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1432,time=2023-01-16 00:41:01
 100	10103	735487	C++	amurushkin	
 100	10088	1064903	C++	Ghirtor	
 100	10032	331880	C++	Monstruo	
+100	10029	1630890	C++	Wld	
 100	9997	2731276	C++	panda42	
 100	9905	4528331	C++	AllanB	
 100	9900	3647844	C++	rc95401	
@@ -817,6 +818,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1432,time=2023-01-16 00:41:01
 100	1216	2826280	C++	guilhembn	
 100	1215	2685790	Javascript	Laws	
 100	1213	1547011	Java	Mandzi	
+100	1208	3646346	Python3	Pingwi85	
 100	1197	1527403	C++	Di_Masta	
 100	1190	4821969	Python3	grizzur	
 100	1188	3691491	Javascript	icecream17	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1432,time=2023-01-16 00:41:01
 100	1045	2714945	Javascript	JohnDoe101	
 100	1045	2713608	Ruby	LostSymphony	
 100	1045	3443821	Ruby	mougi	
-100	1045	2739951	Python3	Raptile	
-100	1045	3460822	Javascript	J2319	

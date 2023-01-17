@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=16572,time=2023-01-16 00:41:00
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=16586,time=2023-01-17 00:41:56
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -961,6 +961,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=16572,time=2023-01-16 00:41:00
 100	67780	3387053	Javascript	best-team	
 100	67720	250352	Javascript	Dorkside	
 100	67660	3826720	C++	Noppo	
+100	67550	5266008	Ruby	Charlotl	
 100	67400	3393535	Python3	LuckyJ.	
 100	67370	2711016	C#	Manuel0814	
 100	67340	517890	C++	Altaire	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=16572,time=2023-01-16 00:41:00
 100	66260	2984707	Python3	Darkduv	
 100	66220	3418512	Python3		
 100	66190	411147	C#	HunterX	
-100	66140	3066640	Java	MaherYounsi	

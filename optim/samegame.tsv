@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=584,time=2023-01-16 00:41:03
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=586,time=2023-01-17 00:41:58
 100	174652	3354337	Scala	Westicles	
 100	169004	154984	C++	_Royale	
 100	167588	1530051	C++	UlYoP	
@@ -303,6 +303,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=584,time=2023-01-16 00:41:03
 100	14504	1584802	Python3	emh	
 100	14501	3724738	C++	BoatBuilder	
 100	14382	2829386	C++	Shaq76	
+100	14068	508460	C++	Volia	
 100	13977	878974	Python3	nicola	
 100	13906	3028864	VB.NET	lorcQc	
 100	13906	1045485	TypeScript	Jessie	
@@ -545,6 +546,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=584,time=2023-01-16 00:41:03
 0	347	3136787	Python3	jacek	
 0	344	4716708	Python3	NCKO	
 0	240	4091440	Python3	tarikyildiz	
+0	240	3646346	Python3	Pingwi85	
 0	176	3440767	Python3	oscar0urselli	
 0	140	4714551	Python3	Makaay	
 0	104	3957369	C++	kebab_fromage	

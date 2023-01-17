@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=379,time=2023-01-16 00:41:03
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=381,time=2023-01-17 00:41:58
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
@@ -31,8 +31,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=379,time=2023-01-16 00:41:03
 100	205269	4341304	C++	Remi.	
 100	205449	2451652	Java	code_of_the_dead	
 100	205481	4717726	C++	[Nexure]	
+100	205670	3039012	Rust	matsu7874	
 100	205879	3338501	C#	mox90oly	
-100	205890	3039012	Rust	matsu7874	
 100	205986	580424	C++	siman	
 100	206247	3535836	Python3	Thanh2022	
 100	206555	155774	C++	dwarfie	
@@ -305,6 +305,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=379,time=2023-01-16 00:41:03
 100	328546	1132011	C#	pci	
 100	344482	1579627	C#	Bahrani	
 100	363220	4897675	Python3	Tybos	
+100	397779	1920415	Java	bortol	
 100	398675	5103569	Python3	VeronikaAccel	
 100	414194	1052387	C++	RomaricM	
 100	419282	1883740	C++	kermo	
@@ -375,6 +376,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=379,time=2023-01-16 00:41:03
 0	-15	5263898	C#	FatihVistula	
 0	-15	5212986	Python3	Raghav.Vishwanath	
 0	-15	5212988	Python3	ojoshi	
+0	-15	5293479	Python3		
 0	0	4759510	Java	Darleanow	
 0	0	5103578	Python3		
 0	0	5224036	Java		

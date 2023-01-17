@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2563,time=2023-01-16 00:30:19
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2564,time=2023-01-17 00:40:28
 6	26.21	1400179	2086196	C++	reCurse	
 6	25.94	1841051	2086085	C++	0xbeefed	
 6	25.86	1896128	2086118	Python3	Vhanire	
@@ -780,11 +780,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2563,time=2023-01-16 00:30:
 3	22.39	1281870	3413739	Python3	Sheerockoff	
 3	22.39	4246372	3505595	C++	40675023H	
 3	22.38	4594770	3946164	Python3	picoplankton	
+3	22.38	3068830	2228413	Python3	Snucha	
 3	22.38	4831399	4072019	Python3	Palatator	
 3	22.37	1861258	2509257	Go	Nazdhun	
 3	22.36	4975973	4390001	C#	Di8	
 3	22.36	3390297	2497920	Javascript	useAllTheThings	
-3	22.35	3068830	2228413	Python3	Snucha	
 3	22.35	3111112	2220415	Python3	Qubeg	
 3	22.34	1396806	2072363	Javascript	djcaesar9114	
 3	22.3	857557	3253395	C#	Foxdev	
@@ -870,15 +870,15 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2563,time=2023-01-16 00:30:
 3	21.66	2109099	2129452	C#	tod2g	
 3	21.64	2642273	3061821	Python3	Pluk	
 3	21.64	1981732	2065357	F#	MJS	
+3	21.63	1829569	2091391	Python3	[0___0]	
 3	21.63	1461866	2068474	Java	Spacebird1313	
 3	21.63	1530429	2345617	Python3	Michiel	
 3	21.63	3516032	4599913	Python3	Labdahal	
 3	21.61	2335979	2986306	C	JulienFv	
 3	21.6	3776353	2826241	C++	Enegas	
-3	21.58	3335380	4046340	C++	Darkproduct	
+3	21.59	3335380	4046340	C++	Darkproduct	
 3	21.58	1427078	2074797	Java	ToshiTuringMachine	
 3	21.58	4236411	3942149	Python3	Warhead333	
-3	21.57	1829569	2091391	Python3	[0___0]	
 3	21.55	3424907	2468044	C#	iYas	
 3	21.55	3956109	3116910	Python3	saquintes	
 3	21.53	1853578	2068075	C#	Code.ama	
@@ -938,10 +938,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2563,time=2023-01-16 00:30:
 3	20.7	2719095	2663083	C#	xBBCx	
 3	20.7	2936928	2229541	Python3	Wrona	
 3	20.67	3015719	2351272	C++	Wiaderko	
+3	20.65	2914317	3029776	C#	TimoSissala	
 3	20.65	4900977	4285373	C++	Grociu	
 3	20.64	2765317	2188418	C++	GeeX86	
 3	20.64	2688458	2081062	C++	AwesomeYouka	
-3	20.62	2914317	3029776	C#	TimoSissala	
 3	20.62	3499669	2503271	Python3	CyberneticLion	
 3	20.61	4862364	4291266	Javascript	SystemPhase	
 3	20.61	1243876	3411567	Java	Hi-Low_World	
@@ -967,12 +967,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2563,time=2023-01-16 00:30:
 3	20.32	4411430	3744690	Python3	Draspag	
 3	20.31	911777	2235429	C#	MasakiKyosuke	
 3	20.29	1364187	2661794	Javascript	M4kh0	
+3	20.29	4199011	3949179	Python3	_MarTiaN_	
 3	20.29	2782074	2078186	C#	LancerX0	
 3	20.28	4512488	3835200	C++	csKingBabar	
 3	20.28	1045710	2068615	Javascript	KPricorn	
 3	20.28	3931524	3082308	C++	leonhardt	
 3	20.26	3544449	3801526	Java	RypKor	
-3	20.24	4199011	3949179	Python3	_MarTiaN_	
 3	20.21	1943136	3664173	C++	Minimalist	
 3	20.2	1787494	2574595	C++	Quixx	
 3	20.19	4463707	3792642	Python3	connor-john	

@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=286,time=2023-01-16 00:41:01
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=286,time=2023-01-17 00:41:57
 100	1570	4618693	PHP	cedricdd	
 100	1596	3918583	Rust	mikmak	
 100	1675	2288263	Rust	dbdr	
@@ -112,6 +112,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=286,time=2023-01-16 00:41:01
 10	512	4859684	Java	PaRy	
 6.666666666666667	61	4180659	Javascript	abrman	
 6.666666666666667	106	3315341	Python3	Yoyoda	
+6.666666666666667	146	2315158	Python3	luigi_gelato	
 6.666666666666667	261	1629259	Java	Marchete	
 6.666666666666667	334	4277867	D	About	
 6.666666666666667	2615	4648805	C++	LordOfElements	
@@ -198,7 +199,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=286,time=2023-01-16 00:41:01
 0	0	3478673	Javascript	never-again	
 0	0	4993857	Python3	WouterSolutions	
 0	0	5114186	Python3	MilanDjokovic2022203830	
-0	0	2315158	Rust	luigi_gelato	
 0	7	4788358	C#	mattyPea	
 0	16	3503501	C++	Dagnarus	
 0	30	1060181	Ruby	Dabou	
