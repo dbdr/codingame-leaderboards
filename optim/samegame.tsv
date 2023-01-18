@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=586,time=2023-01-17 00:41:58
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=586,time=2023-01-18 00:35:14
 100	174652	3354337	Scala	Westicles	
 100	169004	154984	C++	_Royale	
 100	167588	1530051	C++	UlYoP	
@@ -95,6 +95,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=586,time=2023-01-17 00:41:58
 100	54673	4758191	Python3	ChickiBoomBoxer	
 100	54084	973040	C	papyjo	
 100	53892	1441239	Kotlin	Dyd	
+100	53287	3245819	C#	TomA	
 100	53252	4120837	C++	philipplenk	
 100	52927	1489865	C++	EricSMSO	
 100	52108	414278	Java	oobException	
@@ -123,7 +124,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=586,time=2023-01-17 00:41:58
 100	48806	4745002	Python3	Simosha	
 100	48806	4804811	Python3	programmerochka	
 100	48806	4800806	Python3	Super_Max	
-100	48120	3245819	C#	TomA	
 100	48016	4211864	C#	jubick1337	
 100	47940	4752159	Python3	Strauwu	
 100	47886	3691382	C#	Kamil2601	

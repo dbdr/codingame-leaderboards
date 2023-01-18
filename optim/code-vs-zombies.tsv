@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=16586,time=2023-01-17 00:41:56
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=16600,time=2023-01-18 00:35:12
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -50,6 +50,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=16586,time=2023-01-17 00:41:56
 100	467320	5001392	C	Ksalah	
 100	467270	888746	C++	Phate	
 100	466860	3918583	Rust	mikmak	
+100	466440	4966586	C	Rohydre	
 100	466410	4511827	C++	priitl	
 100	465250	4504049	C	Deliambre	
 100	464960	5185420	C	Santaniger	
@@ -441,6 +442,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=16586,time=2023-01-17 00:41:56
 100	189040	1087203	C++	ZhivkoPetrov	
 100	188970	1086050	Python3	aandrukhovich	
 100	188930	880353	C++	zasmu	
+100	188730	1483234	C#	jbl	
 100	188380	1041619	Java	ryguyfiveatgmaildotcom	
 100	188340	3337117	Rust	timbersson	
 100	187820	3982709	Rust	lukasjapan	
@@ -571,7 +573,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=16586,time=2023-01-17 00:41:56
 100	157250	1896128	Python3	Vhanire	
 100	156030	1162034	C#	krakeusz	
 100	155950	4437214	C++		
-100	155380	1483234	C#	jbl	
 100	155050	1588583	Python3	dANNs	
 100	154980	414278	Java	oobException	
 100	154470	1551921	C++	konanTheBarbar	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=16586,time=2023-01-17 00:41:56
 100	66280	4372857	C++	Sirios	
 100	66260	2984707	Python3	Darkduv	
 100	66220	3418512	Python3		
-100	66190	411147	C#	HunterX	

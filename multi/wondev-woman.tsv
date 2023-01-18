@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1760,time=2023-01-17 00:40:27
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1760,time=2023-01-18 00:35:05
 6	42.84	1400179	1501706	C++	reCurse	
 6	40.08	351062	2139699	C++	Neumann	
 6	37.55	3457031	3916653	C++	YurkovAS	
@@ -942,8 +942,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1760,time=2023-01-17 00:40:
 2	21.5	1522923	1440463	Python3	Tear	
 2	21.48	1880197	3101457	Python3	bicklil	
 2	21.46	2653642	2316867	Python3	AnhDuyNguyen	
+2	21.46	2472606	3035853	Python3	MehdiTouil	
 2	21.46	4684374	4007833	Python3	Teunisv	
-2	21.44	2472606	3035853	Python3	MehdiTouil	
 2	21.44	4586341	3994042	Python3	ZAWA9	
 2	21.43	4423522	3846565	Python3	maderovs	
 2	21.43	4579025	3891341	Python3	Amir_83	
@@ -958,9 +958,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1760,time=2023-01-17 00:40:
 2	21.14	3465969	3464214	Python3	ALCAA	
 2	21.11	1981806	1408363	Python3	akeybako	
 2	21.09	3298988	3461025	C#	PotatoCoder	
+2	21.05	4039794	3955351	Python3	Codeab	
 2	20.99	1849945	1417040	C++	YOuOY	
 2	20.94	3308418	3938431	Python3	Utkarsh554	
-2	20.91	4039794	3955351	Python3	Codeab	
 2	20.88	3144403	2309072	Python3	hugoLaugier	
 2	20.88	2826402	3511734	Java	LPAlex	
 2	20.74	1397828	1421311	C++	_ryuu	
@@ -981,7 +981,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1760,time=2023-01-17 00:40:
 2	19.79	2887878	3950518	Python3	Brodalee	
 2	19.62	3329546	2996523	Python3	Jullle	
 2	19.45	805707	1462815	C#	Shiney	
-2	19.02	1726191	3078853	Java	rdlopes	
+2	19.04	1726191	3078853	Java	rdlopes	
 2	19.01	1351763	1771912	Ruby	gatto	
 2	18.95	3329545	2711246	Python3	stylemanguy	
 2	18.75	1073604	1451376	C#	speedFast	
@@ -991,7 +991,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=1760,time=2023-01-17 00:40:
 2	18.49	5011000	4415307	Python3	stijnringeling	
 2	18.45	1926967	1868412	Kotlin	Stanworld	
 2	18.22	1728288	1672427	C#	MOLP	
-2	18.03	3416055	3007426	Python3	ItsAFeature	
+2	18.07	3416055	3007426	Python3	ItsAFeature	
 2	17.78	2081550	3493644	Java	muy31	
 2	17.75	1434515	1408954	C++	scor-A	
 2	17.3	4652450	3954681	Python3	31416	

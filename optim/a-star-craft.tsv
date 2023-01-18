@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1434,time=2023-01-17 00:41:57
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1436,time=2023-01-18 00:35:13
 100	11920	2077805	C++	bamilan	
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
@@ -41,13 +41,13 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1434,time=2023-01-17 00:41:57
 100	10178	580424	C++	siman	
 100	10147	1836058	C++	SeebOmega	
 100	10145	1479930	C++	LeRenard	
+100	10121	1630890	C++	Wld	
 100	10115	1399382	C++	Regulus136	
 100	10112	1607522	C++	RoboStac	
 100	10108	1822184	Pascal	Volchik	
 100	10103	735487	C++	amurushkin	
 100	10088	1064903	C++	Ghirtor	
 100	10032	331880	C++	Monstruo	
-100	10029	1630890	C++	Wld	
 100	9997	2731276	C++	panda42	
 100	9905	4528331	C++	AllanB	
 100	9900	3647844	C++	rc95401	
@@ -849,6 +849,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1434,time=2023-01-17 00:41:57
 100	1108	3520116	C#	poik007	
 100	1107	3589590	Python3	Edjy	
 100	1099	4631010	Java	Marrco	
+100	1099	3039012	Rust	matsu7874	
 100	1097	3451278	Python3	Infinitemonkey_23	
 100	1093	5212988	C++	ojoshi	
 100	1092	478137	Javascript	Z_Dante	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1434,time=2023-01-17 00:41:57
 100	1045	3408953	C++	CFDboy	
 100	1045	2714945	Javascript	JohnDoe101	
 100	1045	2713608	Ruby	LostSymphony	
-100	1045	3443821	Ruby	mougi	
