@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6165,time=2023-01-18 00:35:12
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6172,time=2023-01-19 01:09:15
 100	2509	1327028	C++	FredericBautista	
 100	2507	154372	Bash	Plopx	
 100	2504	1249786	C#	Fededevi	
@@ -232,6 +232,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6165,time=2023-01-18 00:35:12
 100	2267	1757536	C++	BlueGhost31	
 100	2267	3493230	Rust	sgalasso	
 100	2267	3802525	C#	Chibikko	
+100	2267	2220983	C++	RobertWatkins	
 100	2265	919264	C#	Cyril_Jo	
 100	2265	3443052	C	ItCouldBeJav	
 100	2265	1606614	C#	Wazaa	
@@ -272,7 +273,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6165,time=2023-01-18 00:35:12
 100	2236	1168948	C++	Exosum	
 100	2235	3457893	C++	ashr	
 100	2233	3165536	C#	barbora	
-100	2232	2220983	C++	RobertWatkins	
 100	2231	2696465	C++	KarlDjekko	
 100	2231	1515891	Kotlin	ndc	
 100	2230	937362	Javascript	josh_	
@@ -357,6 +357,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6165,time=2023-01-18 00:35:12
 100	2164	3594074	C++	jopo	
 100	2163	2215615	C++	JonathanCasey	
 100	2162	5019972	Rust	DayKnight	
+100	2161	5273726	C++	huma17ax	
 100	2160	606890	C#	r2d2tm	
 100	2160	2468853	C++	ppajuel	
 100	2159	2440248	Python3	Javfres	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6165,time=2023-01-18 00:35:12
 100	1897	4594914	Javascript	NeoJex	
 100	1897	4952348	Python3	albzn	
 100	1896	2207902	C++	PancakeFerret	
-100	1896	2431028	Javascript	Nahoj	

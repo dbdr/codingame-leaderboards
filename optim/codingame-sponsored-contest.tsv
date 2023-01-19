@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=16001,time=2023-01-18 00:35:13
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=16012,time=2023-01-19 01:09:16
 100	14337	329200	C++	BlitzProg	
 100	13905	3533119	C++	wlesavo	
 100	13603	1366631	Javascript	Morhaus	
@@ -58,6 +58,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=16001,time=2023-01-18 00:35:13
 100	4587	1333869	Python3	kiwijam	
 100	4573	1842010	C#	southpolenator	
 100	4561	2242201	C++	Maryan	
+100	4523	4282530	Python3	Dururu	
 100	4476	3960770	C++	AndorM	
 100	4457	1183538	Python3	Petelag	
 100	4443	638784	Python3	Yqnn	
@@ -917,6 +918,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=16001,time=2023-01-18 00:35:13
 100	2532	5223274	Python3	llllllllllllllllllllllllllllll	
 100	2532	4172463	Python3	Golyator	
 100	2532	4904327	Python3	shwe6	
+100	2532	4527804	Python3	JOUTIN	
 100	2528	1034635	C++	SlyB	
 100	2528	1740237	Python3	OlegKornelsen	
 100	2526	2950978	Python3	icecuber	
@@ -954,7 +956,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=16001,time=2023-01-18 00:35:13
 100	2474	164566	Javascript	Tvon	
 100	2472	2006324	C#	Oussama_Siharde	
 100	2472	829018	C++	alchemsti	
-100	2472	4946800	Python3	zeRyoga	
+100	2472	4946800	Python3	Vincent-T	
 100	2470	2800214	Javascript	tashman01	
 100	2468	1482482	C#	gmolnar	
 100	2468	1076632	Rust	Chen	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=16001,time=2023-01-18 00:35:13
 100	2406	3330019	C++	RiposteX	
 100	2406	3967520	C#	Redm4x	
 100	2402	1687372	C#	Cloaked	
-100	2398	1075260	Java	metwesse	
-100	2398	1171469	Java	Reblochon	

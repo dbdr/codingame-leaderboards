@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=586,time=2023-01-18 00:35:14
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=587,time=2023-01-19 01:09:18
 100	174652	3354337	Scala	Westicles	
 100	169004	154984	C++	_Royale	
 100	167588	1530051	C++	UlYoP	
@@ -171,6 +171,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=586,time=2023-01-18 00:35:14
 100	34980	3826720	C++	Noppo	
 100	34871	4003601	C#	Mathieu1988	
 100	34808	4309574	Python3	KornDV	
+100	34780	1802967	Python3	Meruem	
 100	34765	3916254	Python3	mikronex	
 100	34514	4459243	Java	CodeNick	
 100	34398	2017805	Python3	Winter_not_comming	
@@ -190,7 +191,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=586,time=2023-01-18 00:35:14
 100	32792	4021808	C++	hubert123	
 100	32702	3893564	Ruby	Andriamanitra	
 100	32561	2172874	Rust	Med1ane	
-100	32488	1802967	Python3	Meruem	
 100	32440	3954992	Python3	wcanka	
 100	32418	4714538	Python3	ekaterinaparamonova	
 100	32314	2202771	Java	Kaplone	
@@ -264,7 +264,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=586,time=2023-01-18 00:35:14
 100	22064	4760387	Python3	W-A-L-L-E	
 100	21978	1158098	TypeScript	Matjaz	
 100	21921	1473789	C++	jebouin	
-100	21102	4946800	Python3	zeRyoga	
+100	21102	4946800	Python3	Vincent-T	
 100	21068	1480426	Python3	Hikari42	
 100	21006	512097	Haskell	Stilgart	
 100	20937	1525816	Javascript	Flodnes	
@@ -540,6 +540,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=586,time=2023-01-18 00:35:14
 0	470	3535836	Python3	Thanh2022	
 0	470	2325449	Perl	otpv	
 0	470	3556476	Python3	YohanC	
+0	470	5297947	Javascript		
 0	437	3475739	Java	Ysp	
 0	436	4718111	Python3		
 0	400	3741002	Python3	ichbinsmith	
