@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1012,time=2023-01-19 01:09:18
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1014,time=2023-01-20 01:25:55
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353552	2436448	C++	FrancoisMeme	
@@ -657,6 +657,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1012,time=2023-01-19 01:09:18
 100	29512	3514975	Javascript	PhuRiNaT	
 100	29420	2192486	Go	Zyk0	
 100	29332	3552977	Python3	Altheae	
+100	29332	4200593	Python3	qwatry	
 100	29292	2045078	C#	Sharaks	
 100	28984	3772518	Python3	Tartasprint	
 100	28932	1740037	Scala	ereiam	
@@ -997,5 +998,4 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1012,time=2023-01-19 01:09:18
 100	344	5032884	C++	hashbrownmap	
 100	344	5283244	C++	saw.03	
 100	344	5283968	Go	its0me0Nick	
-100	300	4094683	Python3	Loes	
-100	300	275626	Javascript	GreyMoon	
+100	344	5221412	C	nolan667	

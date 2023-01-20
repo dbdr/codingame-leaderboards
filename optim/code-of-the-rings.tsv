@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6847,time=2023-01-19 01:09:15
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6851,time=2023-01-20 01:25:52
 100	2756	2288263	Rust	dbdr	
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
@@ -320,8 +320,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6847,time=2023-01-19 01:09:15
 100	4165	238640	Python3	daAas	
 100	4168	765200	C#	FrancoisB	
 100	4173	3556476	C#	YohanC	
+100	4173	3647844	Python3	rc95401	
 100	4177	404956	Python3	mcsimm	
-100	4178	3647844	Python3	rc95401	
 100	4181	1799284	Java	Mick2Pac	
 100	4181	1762054	Java	KirillJJ	
 100	4190	3723101	Python3	Lilac_Tsuki	
@@ -901,6 +901,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6847,time=2023-01-19 01:09:15
 100	5805	1527403	C++	Di_Masta	
 100	5806	3754066	C++	jast.e.new.name	
 100	5809	3770485	C++	zakki	
+100	5810	4282530	Python3	Dururu	
 100	5811	1706883	C#	CommanderCero	
 100	5811	2320186	Java	aPoStAl	
 100	5811	4997385	C++	Bystri	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6847,time=2023-01-19 01:09:15
 100	5860	956638	Python3	Pi-Geometry	
 100	5860	323228	Haskell	dbihbka	
 100	5860	860297	Javascript	charlieamer	
-100	5860	993670	Python3	Dvermd	
