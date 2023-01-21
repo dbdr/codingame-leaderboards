@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=16628,time=2023-01-20 01:25:52
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=16641,time=2023-01-21 01:03:11
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -291,6 +291,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=16628,time=2023-01-20 01:25:52
 100	217050	1186273	Rust	knacky	
 100	217000	1173064	C#	a.oryol	
 100	216780	3903970	C	Avatar_Wan	
+100	216700	5019853	C++	54_M	
 100	216640	3657275	C	jujurocking	
 100	216580	773811	Java	szoti	
 100	216490	1081827	Python3	[CG]MathisHammel	
@@ -401,6 +402,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=16628,time=2023-01-20 01:25:52
 100	197850	2376044	C++	NecroSchmurf_IV	
 100	197770	1540343	PHP	chernovig	
 100	197690	3534078	C++	chabes	
+100	197430	4904327	C++	shwe6	
 100	197300	1464932	Java	Tiramon	
 100	197150	3446319	C++	Stevo12345	
 100	197080	4596822	C	Zwii	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=16628,time=2023-01-20 01:25:52
 100	66360	1334166	C++	xSkyline	
 100	66300	1158783	C++	Platypus	
 100	66290	1379137	C++	klinik	
-100	66280	4372857	C++	Sirios	
-100	66260	2984707	Python3	Darkduv	

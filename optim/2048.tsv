@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1014,time=2023-01-20 01:25:55
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1015,time=2023-01-21 01:03:14
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353552	2436448	C++	FrancoisMeme	
@@ -344,6 +344,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1014,time=2023-01-20 01:25:55
 100	80000	2414853	Python3	StephaneLaveau	
 100	79900	523185	Python3	Hjax	
 100	79660	894599	Python3	DidierC	
+100	79660	2995359	C#	SL_Gambit	
 100	79044	3998980	Python3	bamax	
 100	78364	2709791	Python3	YOMar	
 100	78364	4075082	Python3	Loxnol	
@@ -372,6 +373,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1014,time=2023-01-20 01:25:55
 100	69792	2635907	Javascript	lopidav	
 100	69696	1086050	Python3	aandrukhovich	
 100	69604	4646686	C#	O.O.	
+100	69428	4200593	Python3	qwatry	
 100	68904	4030968	Python3	MBucas	
 100	68888	4092149	Python3	MarcTu	
 100	68756	4594770	Python3	picoplankton	
@@ -657,7 +659,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1014,time=2023-01-20 01:25:55
 100	29512	3514975	Javascript	PhuRiNaT	
 100	29420	2192486	Go	Zyk0	
 100	29332	3552977	Python3	Altheae	
-100	29332	4200593	Python3	qwatry	
 100	29292	2045078	C#	Sharaks	
 100	28984	3772518	Python3	Tartasprint	
 100	28932	1740037	Scala	ereiam	
@@ -665,12 +666,12 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1014,time=2023-01-20 01:25:55
 100	28884	4105985	Python3	iLaziKx	
 100	28664	3532429	Python3	Skyf0l	
 100	28556	4038761	Python3	Leirn	
+100	28556	5103633	Python3		
 100	28532	3731429	Python3	Flapflapfoo	
 100	28528	4149818	Python3	ET_BB-8	
 100	28468	4062203	Rust	soraie	
 100	28452	4446060	Python3	Prodigity	
 100	28336	4081488	Ruby	meerumschlungen	
-100	28160	5103633	Python3		
 100	28148	4122723	Python3	Hydrazer	
 100	28140	1491724	Javascript	JianpengXu	
 100	28124	4626700	PHP	JohnyDarecek	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1014,time=2023-01-20 01:25:55
 100	344	5032884	C++	hashbrownmap	
 100	344	5283244	C++	saw.03	
 100	344	5283968	Go	its0me0Nick	
-100	344	5221412	C	nolan667	
