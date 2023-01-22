@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1441,time=2023-01-21 01:03:12
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1441,time=2023-01-22 01:11:22
 100	11920	2077805	C++	bamilan	
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
@@ -770,6 +770,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1441,time=2023-01-21 01:03:12
 100	1497	935802	Java	Jerhyn	
 100	1496	2055377	Python3	Covfefe	
 100	1495	1818909	Python3	romaingz	
+100	1493	4097526	Python3	BugM4ker	
 100	1480	1610862	Python3	JoseSantosL	
 100	1480	2532837	Ruby	fauresebast	
 100	1479	4106688	PHP	LovePou	
@@ -831,7 +832,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1441,time=2023-01-21 01:03:12
 100	1154	484031	PHP	LeSSeR	
 100	1151	1342663	C++	JeromeFavrou	
 100	1149	1664528	Python3	intervlan	
-100	1145	4097526	Python3	BugM4ker	
 100	1140	3657937	Python3	elderlybeginner	
 100	1138	2890710	Java	The_Xperience	
 100	1138	2255187	PHP	rom_02	

@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=454,time=2023-01-21 01:03:14
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=455,time=2023-01-22 01:11:25
 100	62940	2077805	C++	bamilan	
 100	62937	2288263	Rust	dbdr	
 100	62936	977117	C++	Psyho	
@@ -453,3 +453,4 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=454,time=2023-01-21 01:03:14
 100	0	4315171	Java	Soucis	
 100	0	5287874	C	nelsson_mandela	
 100	0	5283968	Go	its0me0Nick	
+100	0	2775319	Python3	RIsko02	

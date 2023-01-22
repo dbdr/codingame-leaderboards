@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6862,time=2023-01-21 01:03:11
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6865,time=2023-01-22 01:11:21
 100	2756	2288263	Rust	dbdr	
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
@@ -291,6 +291,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6862,time=2023-01-21 01:03:11
 100	4081	518726	Haskell	nybble41	
 100	4081	2451652	Javascript	code_of_the_dead	
 100	4081	4622964	Ruby	Haradwaith	
+100	4084	3647844	C++	rc95401	
 100	4085	3936949	C++	Jasiek_	
 100	4088	607150	Java	Frisky	
 100	4094	527749	C++	Pds	
@@ -307,7 +308,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6862,time=2023-01-21 01:03:11
 100	4124	931502	Python3	TonyDu	
 100	4124	4609342	C++	jejis	
 100	4125	1793238	Javascript	Thats_nick	
-100	4125	3647844	C++	rc95401	
 100	4127	1118202	PHP	TimvanSteenbergen	
 100	4127	1726600	Rust	Patate	
 100	4129	2434422	Python3	GilMaN	
@@ -743,6 +743,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6862,time=2023-01-21 01:03:11
 100	5638	3478926	C	Alexis.D	
 100	5639	2055756	C#	BiBiPunK	
 100	5639	4081047	Javascript	Rezhay	
+100	5639	947662	Go	Liam	
 100	5642	1128320	Scala	acapela	
 100	5643	4662405	Python3	helpmefindaname	
 100	5644	826671	Python3	kayou	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6862,time=2023-01-21 01:03:11
 100	5860	283206	C#	tom103	
 100	5860	956638	Python3	Pi-Geometry	
 100	5860	323228	Haskell	dbihbka	
-100	5860	860297	Javascript	charlieamer	
