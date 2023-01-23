@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=384,time=2023-01-22 01:11:24
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=387,time=2023-01-23 00:30:28
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
@@ -41,7 +41,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=384,time=2023-01-22 01:11:24
 100	207602	3478673	Javascript	never-again	
 100	207940	992329	C++	BeeGee	
 100	208303	792813	Python3	VilBoub	
-100	208873	1348635	C++	ferbos	
+100	208869	1348635	C++	ferbos	
 100	209198	2962968	C#	Pukunya	
 100	209203	1549856	TypeScript	Keylan	
 100	209210	1489865	C++	EricSMSO	
@@ -155,6 +155,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=384,time=2023-01-22 01:11:24
 100	239897	311035	Python3	leojean890	
 100	240036	1852668	Java	gao	
 100	240083	888898	C++	helgui	
+100	240093	2765655	C#	El_Mono_Sin_Sombra	
 100	240691	4562860	Python3	clxm	
 100	240723	3657937	Python3	elderlybeginner	
 100	240723	2616395	Javascript	welder	
@@ -167,6 +168,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=384,time=2023-01-22 01:11:24
 100	244945	2110342	Javascript	lchenay	
 100	245296	4534733	Python3	Damko757	
 100	245952	1712335	Python3	Antoine-caron	
+100	246131	3729666	Python3	peerdb	
 100	246313	1306289	Python3	Jasperr	
 100	246661	5149711	Python3	burdanas	
 100	246872	999637	Python3	dinobogan	
@@ -285,7 +287,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=384,time=2023-01-22 01:11:24
 100	250555	4781063	Python3	Nicholi	
 100	250555	5191138	C++	Esther013	
 100	250555	4050016	Python3	CharlesSenemaud	
-100	250555	2765655	C#	El_Mono_Sin_Sombra	
 100	250555	4258711	Python3	FredericLocquet	
 100	250555	4935186	Python3	Gabay	
 100	250555	5289808	Python3	repierre	
@@ -380,6 +381,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=384,time=2023-01-22 01:11:24
 0	-15	5212986	Python3	Raghav.Vishwanath	
 0	-15	5212988	Python3	ojoshi	
 0	-15	5293479	Python3		
+0	-15	5163410	Java	LOKI_78	
+0	-15	5303909	Python3		
 0	0	4759510	Java	Darleanow	
 0	0	5103578	Python3		
 0	0	5224036	Java		

@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=588,time=2023-01-22 01:11:24
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=589,time=2023-01-23 00:30:28
 100	174652	3354337	Scala	Westicles	
 100	169004	154984	C++	_Royale	
 100	167588	1530051	C++	UlYoP	
@@ -16,9 +16,9 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=588,time=2023-01-22 01:11:24
 100	147888	1500515	C#	eulerscheZahl	
 100	147064	1344487	C++	UnnamedCodinGamer	
 100	145638	4007648	C++	nan0S_	
+100	142996	1399382	C#	Regulus136	
 100	140174	893541	Java	wala	
 100	139032	1425201	C#	JamesPun	
-100	137956	1399382	C#	Regulus136	
 100	136500	3489223	Javascript	KarloHubai	
 100	136253	2311105	C++	kovi	
 100	132138	2315158	Java	luigi_gelato	
@@ -542,6 +542,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=588,time=2023-01-22 01:11:24
 0	470	3556476	Python3	YohanC	
 0	470	5297947	Javascript		
 0	470	5302562	Perl		
+0	470	5163410	Java	LOKI_78	
 0	437	3475739	Java	Ysp	
 0	436	4718111	Python3		
 0	400	3741002	Python3	ichbinsmith	

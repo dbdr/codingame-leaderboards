@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=409,time=2023-01-22 01:11:23
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=410,time=2023-01-23 00:30:27
 100	291	2288263	Rust	dbdr	
 100	293	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -408,3 +408,4 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=409,time=2023-01-22 01:11:23
 0	13846	5112539	Python3	soyouthinkyoucancode	
 0	13846	4605393	C#	Emanuele.Fasano	
 0	13846	1434004	PHP	maxbatura	
+0	13846	5163410	Java	LOKI_78	

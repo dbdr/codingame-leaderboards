@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6865,time=2023-01-22 01:11:21
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6867,time=2023-01-23 00:30:25
 100	2756	2288263	Rust	dbdr	
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
@@ -284,6 +284,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6865,time=2023-01-22 01:11:21
 100	4041	3481298	C++	mmikhailov	
 100	4045	936661	Python3	bdvir	
 100	4052	4053362	C#	Johan_Braanen	
+100	4055	3647844	C++	rc95401	
 100	4059	1353260	Java	kluf	
 100	4061	915957	C	Tux	
 100	4065	972854	Python3	MrXo	
@@ -291,7 +292,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6865,time=2023-01-22 01:11:21
 100	4081	518726	Haskell	nybble41	
 100	4081	2451652	Javascript	code_of_the_dead	
 100	4081	4622964	Ruby	Haradwaith	
-100	4084	3647844	C++	rc95401	
 100	4085	3936949	C++	Jasiek_	
 100	4088	607150	Java	Frisky	
 100	4094	527749	C++	Pds	
@@ -553,6 +553,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6865,time=2023-01-22 01:11:21
 100	4952	4003601	C#	Mathieu1988	
 100	4975	154967	Python3	trnsnt	
 100	4977	380641	C#	Mercadis	
+100	4981	947662	Go	Liam	
 100	5000	4044949	Python3	Exanc	
 100	5006	4386234	Python3	EnoGic	
 100	5006	4328313	Python3	Louack	
@@ -743,7 +744,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6865,time=2023-01-22 01:11:21
 100	5638	3478926	C	Alexis.D	
 100	5639	2055756	C#	BiBiPunK	
 100	5639	4081047	Javascript	Rezhay	
-100	5639	947662	Go	Liam	
 100	5642	1128320	Scala	acapela	
 100	5643	4662405	Python3	helpmefindaname	
 100	5644	826671	Python3	kayou	
