@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=450,time=2023-01-23 00:30:27
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=451,time=2023-01-24 00:40:52
 100	999	1629259	PHP	Marchete	
 100	999	3354337	C++	Westicles	
 100	999	3949307	C++	xevixevi	
@@ -242,6 +242,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=450,time=2023-01-23 00:30:27
 100	9	4386234	Python3	EnoGic	
 100	9	2948040	Javascript	Pouyou	
 100	9	911698	Python3	Krushak	
+100	9	5155332	Python3	Papoum	
 100	8	735487	PHP	amurushkin	
 100	8	1600229	Python3	Emilem	
 100	8	2398608	Python3	M_C	
@@ -254,6 +255,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=450,time=2023-01-23 00:30:27
 100	8	2928316	Python3	pompotesboy	
 100	8	4044949	Java	Exanc	
 100	8	4888782	PHP	odaxav	
+100	8	1178157	Python3	R_o_l_a_n_d	
 100	7	1728288	C#	MOLP	
 100	7	886483	Javascript	R4N4R4M4	
 100	7	881817	Python3	Major_Tom	
@@ -448,4 +450,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=450,time=2023-01-23 00:30:27
 0	0	3478673	Javascript	never-again	
 0	0	3552977	Python3	Altheae	
 0	0	5171320	C	Parker_19	
-0	0	5155332	Python3	Papoum	

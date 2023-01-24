@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4897,time=2023-01-23 00:30:16
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4897,time=2023-01-24 00:40:42
 0	47.16	1433161	1484525	C	mingu1.kang	
 0	45.61	494104	455215	C++	Recar	
 0	45.18	990110	357643	C++	Rogerup	
@@ -242,11 +242,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4897,time=2023-01-23 00:30:
 0	37.46	329200	342522	PHP	BlitzProg	
 0	37.45	370471	354612	C#	desoindx	
 0	37.45	4963997	4435194	C++	juhye.park	
+0	37.41	912651	339142	Python	0006-lVH	
 0	37.4	2731276	2063011	C++	panda42	
 0	37.4	392182	689207	Java	Orgcore	
 0	37.4	170619	355334	ObjectiveC	laevand	
 0	37.38	200708	358204	C	kobr4	
-0	37.36	912651	339142	Python	0006-lVH	
 0	37.36	331880	1646602	Scala	Monstruo	
 0	37.35	156188	355931	PHP	DorianWilde	
 0	37.31	596947	341127	C++	LBandy	
@@ -449,7 +449,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4897,time=2023-01-23 00:30:
 0	34.59	2492191	3493185	OCaml	MPSI-LIV-TheoBekh	
 0	34.59	1131084	364522	C#	pmod	
 0	34.58	1269687	375475	Python3	Maggles	
-0	34.58	153965	806714	Python3	[CG]Keelhaul	
 0	34.56	938374	340548	C#	UnmanagedCode	
 0	34.56	1013576	344215	C#	GabrielBottari	
 0	34.56	4255364	3722465	OCaml	hamza_MPSI_LIV	
@@ -457,6 +456,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4897,time=2023-01-23 00:30:
 0	34.55	420835	356520	Python	Ishkulov	
 0	34.55	3922731	3640375	Dart	Dartisan	
 0	34.54	988601	357485	C++	Den818	
+0	34.54	153965	806714	Python3	[CG]Keelhaul	
 0	34.53	163957	339515	PHP	youser	
 0	34.52	273004	355833	C++	ptitrex	
 0	34.52	490872	355113	Python3	erjius	
@@ -778,11 +778,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4897,time=2023-01-23 00:30:
 0	32.43	155906	354046	Scala	AlainBearez	
 0	32.43	594697	3524272	C#	dimulien	
 0	32.41	1029313	354550	Python3	jiro789	
+0	32.39	2416641	2306611	Python3	Zenoscave	
 0	32.39	1431090	470114	Python	JangHyoungNam	
 0	32.38	4466025	3788398	C++	FluffySalmon	
 0	32.37	1206537	656015	C++	MadKnight	
 0	32.37	1096274	455234	C#	DrBrask	
-0	32.36	2416641	2306611	Python3	Zenoscave	
 0	32.36	4964082	4464401	C++	AllenSong	
 0	32.35	1050421	345346	Java	geppoz	
 0	32.33	926124	1284436	Java	Beerus	

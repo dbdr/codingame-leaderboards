@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=387,time=2023-01-23 00:30:28
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=387,time=2023-01-24 00:40:54
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
@@ -55,6 +55,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=387,time=2023-01-23 00:30:28
 100	210563	820000	C++	ValGrowth	
 100	210862	4083537	Python3	DavidAvsajanishvili	
 100	210883	2350415	C++	Vintarel	
+100	211201	2765655	C#	El_Mono_Sin_Sombra	
 100	211310	3844625	C++	surgutti	
 100	211481	4754623	C++	kirillkulemin	
 100	211604	4726885	C++	Boooooooo	
@@ -155,11 +156,11 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=387,time=2023-01-23 00:30:28
 100	239897	311035	Python3	leojean890	
 100	240036	1852668	Java	gao	
 100	240083	888898	C++	helgui	
-100	240093	2765655	C#	El_Mono_Sin_Sombra	
 100	240691	4562860	Python3	clxm	
 100	240723	3657937	Python3	elderlybeginner	
 100	240723	2616395	Javascript	welder	
 100	240892	4441094	Python3	Oric1	
+100	243248	3729666	Python3	peerdb	
 100	243415	3513265	C++	DaNinja	
 100	243481	5187329	C++	AllardDB	
 100	244049	1412263	PHP	PatrickMcGinnisII	
@@ -168,7 +169,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=387,time=2023-01-23 00:30:28
 100	244945	2110342	Javascript	lchenay	
 100	245296	4534733	Python3	Damko757	
 100	245952	1712335	Python3	Antoine-caron	
-100	246131	3729666	Python3	peerdb	
 100	246313	1306289	Python3	Jasperr	
 100	246661	5149711	Python3	burdanas	
 100	246872	999637	Python3	dinobogan	

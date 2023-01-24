@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6187,time=2023-01-23 00:30:25
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6189,time=2023-01-24 00:40:50
 100	2509	1327028	C++	FredericBautista	
 100	2507	154372	Bash	Plopx	
 100	2504	1249786	C#	Fededevi	
@@ -54,6 +54,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6187,time=2023-01-23 00:30:25
 100	2436	947662	Go	Liam	
 100	2435	3235897	Java	Zylo	
 100	2433	3457031	C++	YurkovAS	
+100	2433	5191042	Rust	Saphir123	
 100	2430	4452961	C	Sheeesh---	
 100	2429	557990	C++	Wazemo	
 100	2428	4194801	Python3	jdeveil	
@@ -976,7 +977,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6187,time=2023-01-23 00:30:25
 100	1906	4438243	Javascript	OverCoded	
 100	1906	4309333	Java	MacG	
 100	1906	2640858	TypeScript	djey64	
-100	1906	5191042	Rust	Saphir123	
 100	1905	913178	Java	JayJays	
 100	1905	1368852	Rust	raysplaceinspace	
 100	1904	970151	C#	negstek	

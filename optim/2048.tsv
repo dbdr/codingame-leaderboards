@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1020,time=2023-01-23 00:30:28
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1020,time=2023-01-24 00:40:53
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353552	2436448	C++	FrancoisMeme	
@@ -72,6 +72,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1020,time=2023-01-23 00:30:28
 100	10014568	4334077	C++	Paul_Demanze	
 100	10013012	3726978	C++	VirtualAtom	
 100	9607648	416894	C++	MeDev	
+100	9342080	775897	C++	gchebanov	
 100	9282440	3305510	PHP	TBali	
 100	9218580	3999174	C++	Shrimpster	
 100	9179604	2491616	Rust	abt8601	
@@ -215,6 +216,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1020,time=2023-01-23 00:30:28
 100	435988	273004	Python3	ptitrex	
 100	415156	182536	C	dbo	
 100	407312	1479930	C++	LeRenard	
+100	405252	5063223	C++	Nrydo	
 100	404300	199887	C#	Sanpas	
 100	403532	4026208	Java	alf38	
 100	402388	2328161	Javascript	Joethebus	
@@ -261,7 +263,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1020,time=2023-01-23 00:30:28
 100	237704	3123327	Javascript	Cordy	
 100	234852	3244861	Python3	0xecho	
 100	232164	3968448	Python3	Ragul02	
-100	223252	5063223	C++	Nrydo	
 100	220668	2017805	Python3	Winter_not_comming	
 100	220520	3235897	Java	Zylo	
 100	216072	586074	Ruby	Nakilon	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1020,time=2023-01-23 00:30:28
 100	344	5149581	C#	ThoCo	
 100	344	5213896	Python3		
 100	344	5214116	Python3	Ledey	
-100	344	5032884	C++	hashbrownmap	
