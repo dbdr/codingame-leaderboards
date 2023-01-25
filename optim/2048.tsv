@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1020,time=2023-01-24 00:40:53
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1021,time=2023-01-25 01:05:16
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353552	2436448	C++	FrancoisMeme	
@@ -101,10 +101,10 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1020,time=2023-01-24 00:40:53
 100	6638148	992329	Java	BeeGee	
 100	6415556	4746790	C#	AydartsyanGrisha	
 100	6357144	862919	C++	Astrobytes	
+100	6340084	1077559	Java	PhOeNyX	
 100	6260476	1883740	C++	kermo	
 100	6181796	4482661	C++	square1001	
 100	6165368	4537924	Rust	ArtesScytale	
-100	6070488	1077559	Java	PhOeNyX	
 100	6040172	1638419	Java	Quent21	
 100	5820284	1807733	Python3	NoZ-	
 100	5769228	3826720	C++	Noppo	
@@ -698,6 +698,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1020,time=2023-01-24 00:40:53
 100	27012	4111826	Java	ThomasMascaro	
 100	26924	4717007	Python3	Anktinosia	
 100	26896	3675563	C++	QuentinSauvage	
+100	26836	5163410	Java	LOKI_78	
 100	26804	4206218	C#	Jerrasterix	
 100	26756	3845610	Python3	pardouin	
 100	26592	3999693	Python3	ln-dev05	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1020,time=2023-01-24 00:40:53
 100	344	5139303	C		
 100	344	5149581	C#	ThoCo	
 100	344	5213896	Python3		
-100	344	5214116	Python3	Ledey	

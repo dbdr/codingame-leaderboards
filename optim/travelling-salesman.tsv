@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=387,time=2023-01-24 00:40:54
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=388,time=2023-01-25 01:05:16
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
@@ -90,6 +90,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=387,time=2023-01-24 00:40:54
 100	216187	862919	C++	Astrobytes	
 100	217235	3371531	Java	Zasalamel	
 100	217382	2250473	Javascript	DisaDev	
+100	217699	3389226	C#	Peti88	
 100	217888	2769748	Python3	jamalou	
 100	217926	3771662	Python3	meltice	
 100	217990	3611257	C++	Apodus	
@@ -122,7 +123,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=387,time=2023-01-24 00:40:54
 100	228711	1287344	C++	Alshock	
 100	228720	3343665	Rust	Quidome	
 100	229528	3490454	Python3	PAug	
-100	230056	3389226	C#	Peti88	
 100	230165	3802525	C#	Chibikko	
 100	230430	4674218	Python3	Kirin04	
 100	230452	3996809	Kotlin	VizGhar	
@@ -366,6 +366,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=387,time=2023-01-24 00:40:54
 100	2784200	4211056	C#	Nachosauce	
 100	3211740	1378958	C#	Illedan	
 100	3246732	1500515	Python3	eulerscheZahl	
+73.33333333333333	2138852	5195059	Rust	Kkameleon	
 13.333333333333334	8243	5205827	Python3		
 13.333333333333334	8243	5265791	Python3	Searcherr	
 6.666666666666667	5240	4315171	Java	Soucis	

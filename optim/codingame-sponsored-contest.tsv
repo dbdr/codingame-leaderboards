@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=16059,time=2023-01-24 00:40:51
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=16067,time=2023-01-25 01:05:13
 100	14337	329200	C++	BlitzProg	
 100	13905	3533119	C++	wlesavo	
 100	13603	1366631	Javascript	Morhaus	
@@ -42,6 +42,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=16059,time=2023-01-24 00:40:51
 100	5026	2266968	Python3	Steve2072	
 100	4968	3691366	Java	V90	
 100	4957	2311105	C++	kovi	
+100	4949	1723164	C#	Maveyyl	
 100	4948	153683	Dart	40R15T3	
 100	4933	2967836	Python3	LironBerger	
 100	4887	1607971	Lua	notcake	
@@ -58,8 +59,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=16059,time=2023-01-24 00:40:51
 100	4587	1333869	Python3	kiwijam	
 100	4573	1842010	C#	southpolenator	
 100	4561	2242201	C++	Maryan	
+100	4529	5292511	Python3	Zbrasic	
 100	4523	4282530	Python3	Dururu	
-100	4492	5292511	Python3	Zbrasic	
 100	4476	3960770	C++	AndorM	
 100	4457	1183538	Python3	Petelag	
 100	4443	638784	Python3	Yqnn	
@@ -121,7 +122,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=16059,time=2023-01-24 00:40:51
 100	3738	1927198	Java	Glop_Glop	
 100	3736	735910	C++	Agade	
 100	3733	1323814	C++	Wildcat-SC	
-100	3733	1723164	C#	Maveyyl	
 100	3729	994344	Java	Momopouccino	
 100	3726	2162881	Java	B4RF	
 100	3720	973040	C	papyjo	

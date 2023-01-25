@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3231,time=2023-01-24 00:40:36
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3231,time=2023-01-25 00:30:11
 5	40.91	1400179	3084895	C++	reCurse	
 5	40.06	832306	1764125	C++	pb4	
 5	36.93	1378958	4392331	C#	Illedan	
@@ -986,7 +986,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3231,time=2023-01-24 00:40:
 4	-0.79	969333	905788	C++	ItsJasper	
 4	-0.81	1158783	909799	C++	Platypus	
 3	20.57	1547011	3898514	Java	Mandzi	
-3	20.55	4396325	3835258	TypeScript	Unai21	
+3	20.42	4396325	3835258	TypeScript	Unai21	
 3	20.06	3693029	2686375	Java	NikolasMori	
 3	19.94	3895897	3496578	C++	GordeyZav	
 3	19.87	549583	911346	Javascript	malko	
@@ -994,8 +994,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=3231,time=2023-01-24 00:40:
 3	19.25	5135302	4557265	Python3	Tony_Ssahr	
 3	19.24	3917158	3055986	Java	Kearsarge	
 3	19.24	1691463	897157	C#	invisibletotoro	
+3	19.23	989912	3163756	C++	Arctik3-14	
 3	19.21	4208796	3451248	Java	vemochi	
-3	19.21	989912	3163756	C++	Arctik3-14	
 3	19.19	3634731	2686978	Java	dstrauch	
 3	19.17	3633113	2698239	Java	grimrep	
 3	19.14	1059313	940340	C++	_SERGE_	

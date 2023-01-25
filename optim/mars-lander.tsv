@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6189,time=2023-01-24 00:40:50
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6194,time=2023-01-25 01:05:12
 100	2509	1327028	C++	FredericBautista	
 100	2507	154372	Bash	Plopx	
 100	2504	1249786	C#	Fededevi	
@@ -166,6 +166,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6189,time=2023-01-24 00:40:50
 100	2332	2377220	C++	arstneio	
 100	2331	4290907	C++	janm31415	
 100	2330	1937628	C++	Elom	
+100	2329	4054608	C++	Rikus	
 100	2326	2786666	C++	TetraktysPhi	
 100	2324	1469666	C++	alenic	
 100	2324	1213718	C++	MrPavtun	
@@ -751,6 +752,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6189,time=2023-01-24 00:40:50
 100	1991	4904327	Java	shwe6	
 100	1991	4527784	Java	FlAvril	
 100	1991	5195449	Java	ravikr	
+100	1991	4966586	Java	Rohydre	
 100	1990	876163	C#	AY1111	
 100	1990	1393802	Python3	amzh	
 100	1990	3762699	C	Nolliwood	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6189,time=2023-01-24 00:40:50
 100	1898	2067176	Javascript	0bug	
 100	1898	2592027	C#	ParticleBeam	
 100	1898	3954613	Rust	kellda	
-100	1898	5153421	Python3	pere-mission	
-100	1897	1022877	F#	MariosK	
