@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6871,time=2023-01-25 01:05:13
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6874,time=2023-01-26 00:57:16
 100	2756	2288263	Rust	dbdr	
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
@@ -543,6 +543,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6871,time=2023-01-25 01:05:13
 100	4901	2536589	Java	mjfcolas	
 100	4906	1081827	Python3	[CG]MathisHammel	
 100	4911	890470	Java	romdouze	
+100	4917	4331816	C#	tiracoon	
 100	4919	2711018	Javascript	Fabs	
 100	4930	4434701	Java	Pucu	
 100	4934	1301137	Python3	lewisbm	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6871,time=2023-01-25 01:05:13
 100	5860	802343	Java	Etheriel	
 100	5860	933394	Java	The_Muffin_Man	
 100	5860	283206	C#	tom103	
-100	5860	956638	Python3	Pi-Geometry	

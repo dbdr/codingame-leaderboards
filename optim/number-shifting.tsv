@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=451,time=2023-01-25 01:05:15
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=451,time=2023-01-26 00:57:17
 100	999	1629259	PHP	Marchete	
 100	999	3354337	C++	Westicles	
 100	999	3949307	C++	xevixevi	
@@ -82,6 +82,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=451,time=2023-01-25 01:05:15
 100	43	1753077	Python3	codingWhale	
 100	42	4104174	Java	JorBer	
 100	41	4135188	Python3	jhewlett	
+100	40	1178157	PHP	R_o_l_a_n_d	
 100	38	1464932	PHP	Tiramon	
 100	38	4277867	D	About	
 100	38	3657937	Python3	elderlybeginner	
@@ -183,6 +184,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=451,time=2023-01-25 01:05:15
 100	16	3700824	Bash	Calaquendi	
 100	16	2007852	PHP	Zorg1	
 100	16	4652107	Python3	JonnyWhite	
+100	16	5155332	Python3	Papoum	
 100	15	1274026	C#	Sethius	
 100	15	3796951	PHP	Gerbil	
 100	15	3496153	PHP	lndshs	
@@ -223,8 +225,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=451,time=2023-01-25 01:05:15
 100	11	173928	Ruby	lacrosse	
 100	11	4053362	C#	Johan_Braanen	
 100	11	5125079	Python3	DCTG	
-100	11	5155332	Python3	Papoum	
-100	11	1178157	Python3	R_o_l_a_n_d	
 100	10	3305510	PHP	TBali	
 100	10	1760406	Swift	[nico]	
 100	9	2373953	TypeScript	Dridriun	

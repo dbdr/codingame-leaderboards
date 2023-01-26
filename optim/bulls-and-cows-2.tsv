@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=411,time=2023-01-25 01:05:15
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=411,time=2023-01-26 00:57:18
 100	291	2288263	Rust	dbdr	
 100	293	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -66,13 +66,13 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=411,time=2023-01-25 01:05:15
 100	363	440476	C++	yowa	
 100	364	3738782	C#	Inaniwa	
 100	364	1684020	Python3	tom_	
+100	369	5072331	C++	TiPoix	
 100	379	3343665	Rust	Quidome	
 100	380	1393802	Rust	amzh	
 100	382	4277867	Rust	About	
 100	382	2077805	C++	bamilan	
 100	384	3983017	PHP	TLbuis	
 100	387	841420	C#	RandomVariable	
-100	394	5072331	C++	TiPoix	
 100	396	4446060	Python3	Prodigity	
 100	403	1684486	C++	Whopper	
 100	405	4484024	C++	Hize	
@@ -151,6 +151,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=411,time=2023-01-25 01:05:15
 100	1065	2202771	Java	Kaplone	
 100	1067	335954	Java	nmahoude	
 100	1079	2364617	C++	RomainPicot	
+100	1094	1495122	Python3	Kaaeder	
 100	1111	2153101	Python3	Sylvain0675	
 100	1113	4648805	C++	LordOfElements	
 100	1122	1378958	C#	Illedan	
@@ -253,7 +254,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=411,time=2023-01-25 01:05:15
 73.91304347826087	4918	4534733	Python3	Damko757	
 73.91304347826087	5910	4039884	C++	mzbear	
 71.73913043478261	4357	2141506	Python3	Jamesscn	
-71.73913043478261	4600	1495122	Python3	Kaaeder	
 71.73913043478261	5364	3478673	Javascript	never-again	
 71.73913043478261	6057	3922731	Dart	Dartisan	
 69.56521739130434	4403	3770501	C++	luke-guyton	

@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1021,time=2023-01-25 01:05:16
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1026,time=2023-01-26 00:57:19
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353552	2436448	C++	FrancoisMeme	
@@ -87,13 +87,13 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1021,time=2023-01-25 01:05:16
 100	8184664	155774	C++	dwarfie	
 100	8012044	4746859	C#	CHKAFF	
 100	7932432	1335230	C++	jft63	
+100	7789200	1050490	C++	Snark_Chaser	
 100	7458284	524638	C++	miklla	
 100	7399092	3697689	Rust	MrSkaal	
 100	7365316	1314316	C++	jolindien	
 100	7354144	952784	C++	[CG]Simon	
 100	7200680	3335896	C++	_martynas	
 100	7040396	512097	C++	Stilgart	
-100	6841104	1050490	C++	Snark_Chaser	
 100	6741832	3927891	C++	whywhy_	
 100	6722180	3996809	C++	VizGhar	
 100	6705292	1052387	C++	RomaricM	
@@ -343,6 +343,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1021,time=2023-01-25 01:05:16
 100	80700	3478673	Javascript	never-again	
 100	80464	2257655	C++	rycbaryana	
 100	80200	4808282	Python3	MaxKuzya03	
+100	80200	5103632	Python3		
 100	80000	2414853	Python3	StephaneLaveau	
 100	79900	523185	Python3	Hjax	
 100	79660	894599	Python3	DidierC	
@@ -513,6 +514,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1021,time=2023-01-25 01:05:16
 100	49692	2532837	Ruby	fauresebast	
 100	49692	1747550	C#	Rafalon	
 100	49692	4100445	Python3	MathiasBennick	
+100	49692	5114675	Python3	CoolPushak	
 100	49232	1194069	Python3	Redstrike	
 100	49232	3950687	Python3	vkreuz	
 100	49232	153256	C	Achraf_Lyazidi	
@@ -551,6 +553,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1021,time=2023-01-25 01:05:16
 100	46732	3878056	Python3	LighTender	
 100	46352	4120316	Javascript	kishkumen	
 100	46076	3486522	Python3	Linze	
+100	45840	1332460	Javascript	Sozary	
 100	45780	3515315	Python3	MichalM	
 100	45740	4089252	Python3	Miki09	
 100	45732	1664043	Javascript	GloboGamer	
@@ -679,6 +682,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1021,time=2023-01-25 01:05:16
 100	28108	4105636	Perl	MatrixFailure	
 100	28048	1932031	Python3	Briossant	
 100	28028	4821969	Python3	grizzur	
+100	28012	5163410	Java	LOKI_78	
 100	27924	4134943	Python3	vinc-r	
 100	27888	4135188	Python3	jhewlett	
 100	27888	4262625	Python3	telerama	
@@ -698,7 +702,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1021,time=2023-01-25 01:05:16
 100	27012	4111826	Java	ThomasMascaro	
 100	26924	4717007	Python3	Anktinosia	
 100	26896	3675563	C++	QuentinSauvage	
-100	26836	5163410	Java	LOKI_78	
 100	26804	4206218	C#	Jerrasterix	
 100	26756	3845610	Python3	pardouin	
 100	26592	3999693	Python3	ln-dev05	
@@ -738,6 +741,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1021,time=2023-01-25 01:05:16
 100	23680	5066309	Python3	SIR-EBI	
 100	23192	3365527	Go	Civiled	
 100	22996	4759510	Python3	Darleanow	
+100	22676	1766900	Python3	zanintony	
 100	22380	938374	C#	UnmanagedCode	
 100	22264	1802808	Python3	EnderWiggins	
 100	21956	4058276	Python3	aatif_khan	
@@ -778,7 +782,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1021,time=2023-01-25 01:05:16
 100	10684	4747873	Kotlin	Triiinx	
 100	9932	4719765	C		
 100	9712	1538357	C#	Escaity	
-100	9704	5114675	Python3	CoolPushak	
 100	9688	4036826	Javascript	Feust	
 100	8968	1193679	Python3	Icebox	
 100	8592	2324305	C#	mgbt	
@@ -996,6 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1021,time=2023-01-25 01:05:16
 100	344	1630012	Rust	vinogradnick	
 100	344	1129366	Java	kkkaaa	
 100	344	1673734	Javascript	pshezgyr	
-100	344	5139303	C		
-100	344	5149581	C#	ThoCo	
-100	344	5213896	Python3		

@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Pseudo	#golf,count=3000,time=2023-01-25 01:05:39
+Comp.	Score	UserID	Pseudo	#golf,count=3002,time=2023-01-26 00:57:41
 100	71	2315623	Lydxn	
 100	72	3845610	pardouin	
 100	74	3883981	mauguignard	
@@ -23,9 +23,11 @@ Comp.	Score	UserID	Pseudo	#golf,count=3000,time=2023-01-25 01:05:39
 100	76	4431726	tealfrog	
 100	76	4274025	joniebear	
 100	76	2369996	programjames	
+100	76	1725941	TFeld	
 100	77	154388	PonyPonyCodeCode	
 100	77	4595600	yamen_malik	
 100	77	4341304	Remi.	
+100	77	5191042	Saphir123	
 100	78	2927320	itectori	
 100	78	3362964	a314	
 100	78	3337790	gitbeginer	
@@ -44,6 +46,7 @@ Comp.	Score	UserID	Pseudo	#golf,count=3000,time=2023-01-25 01:05:39
 100	80	1473017	justhalf	
 100	80	4717007	Anktinosia	
 100	80	3514975	PhuRiNaT	
+100	80	4966586	Rohydre	
 100	81	1502908	selujum	
 100	81	2923506	darkhorse64	
 100	81	2977626	Sandell0	
@@ -51,8 +54,6 @@ Comp.	Score	UserID	Pseudo	#golf,count=3000,time=2023-01-25 01:05:39
 100	81	4830112	slow-mo	
 100	81	3657275	jujurocking	
 100	81	1073247	_NikJ	
-100	81	4966586	Rohydre	
-100	81	5191042	Saphir123	
 100	82	3337117	timbersson	
 100	82	893541	wala	
 100	82	2984707	Darkduv	
@@ -282,7 +283,6 @@ Comp.	Score	UserID	Pseudo	#golf,count=3000,time=2023-01-25 01:05:39
 100	106	3917420	trold	
 100	106	1877372	ptillemans	
 100	106	3842278	hem123	
-100	106	1725941	TFeld	
 100	106	1838549	orangesnowfox	
 100	106	4502899	Tomoyarn	
 100	106	153927	Cubix	
@@ -696,6 +696,7 @@ Comp.	Score	UserID	Pseudo	#golf,count=3000,time=2023-01-25 01:05:39
 100	128	5071488	Laliana	
 100	128	814404	ElNyk	
 100	128	1306289	Jasperr	
+100	128	2765655	El_Mono_Sin_Sombra	
 100	129	1903031	hard-coded	
 100	129	2638940	Pergunta2	
 100	129	1496550	fmatray	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Pseudo	#golf,count=3000,time=2023-01-25 01:05:39
 100	142	1691929	Blubbor	
 100	142	3279089	TheNewBlood	
 100	142	4684374	Teunisv	
-100	142	4848961	Sasso_Stark	
