@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=411,time=2023-01-26 00:57:18
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=413,time=2023-01-27 00:51:36
 100	291	2288263	Rust	dbdr	
 100	293	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -349,6 +349,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=411,time=2023-01-26 00:57:18
 21.73913043478261	11391	4122723	Python3	Hydrazer	
 21.73913043478261	11714	3486522	Python3	Linze	
 21.73913043478261	11947	2334614	Python3	Hakyoma	
+19.565217391304348	11247	5166743	C++	TheMarco	
 19.565217391304348	11591	1594351	Python3	elplouk	
 19.565217391304348	11708	4420742	Python3	Mortis_666	
 19.565217391304348	11754	4219282	Python3	Mindarius	
@@ -410,3 +411,4 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=411,time=2023-01-26 00:57:18
 0	13846	4605393	C#	Emanuele.Fasano	
 0	13846	1434004	PHP	maxbatura	
 0	13846	5163410	Java	LOKI_78	
+0	13846	1115053	C++	xlREDlx	

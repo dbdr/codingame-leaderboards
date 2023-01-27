@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6197,time=2023-01-26 00:57:15
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6199,time=2023-01-27 00:51:34
 100	2509	1327028	C++	FredericBautista	
 100	2507	154372	Bash	Plopx	
 100	2504	1249786	C#	Fededevi	
@@ -979,6 +979,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6197,time=2023-01-26 00:57:15
 100	1906	4438243	Javascript	OverCoded	
 100	1906	4309333	Java	MacG	
 100	1906	2640858	TypeScript	djey64	
+100	1906	5288558	Java	Faidelow	
 100	1905	913178	Java	JayJays	
 100	1905	1368852	Rust	raysplaceinspace	
 100	1904	970151	C#	negstek	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6197,time=2023-01-26 00:57:15
 100	1898	1221642	Ruby	Nemmers	
 100	1898	2067176	Javascript	0bug	
 100	1898	2592027	C#	ParticleBeam	
-100	1898	3954613	Rust	kellda	

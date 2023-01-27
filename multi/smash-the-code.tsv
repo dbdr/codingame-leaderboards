@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2674,time=2023-01-26 00:57:06
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2674,time=2023-01-27 00:51:24
 5	33.29	1327028	2990369	C++	FredericBautista	
 5	31.72	1400179	2986754	C++	reCurse	
 5	30.46	1413236	511966	Go	Medici	
@@ -910,7 +910,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2674,time=2023-01-26 00:57:
 1	23.33	1245243	495360	Javascript	Clement134	
 1	23.32	1557154	3433898	C++	BigToeMan	
 1	23.32	1494618	625811	Javascript	Lune	
-1	23.31	1113415	653895	Python3	Lhassa	
 1	23.31	915148	619650	C#	Altior	
 1	23.31	1477028	577663	Ruby	CbIC	
 1	23.31	1494734	589398	Java	Leogelas	
@@ -999,3 +998,4 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2674,time=2023-01-26 00:57:
 1	23.26	1364114	493061	C++	Unforgiven	
 1	23.26	1411423	484831	Perl	Wyllyam	
 1	23.26	1397268	2454349	C	RTLB	
+1	23.26	1026791	885989	Javascript	Alfalfamale	

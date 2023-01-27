@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1026,time=2023-01-26 00:57:19
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1026,time=2023-01-27 00:51:37
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353552	2436448	C++	FrancoisMeme	
@@ -622,6 +622,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1026,time=2023-01-26 00:57:19
 100	33484	1398620	C#	Kazkel	
 100	33416	4756693	Python3	MorningWalk	
 100	33244	4419628	Python3	.fill.	
+100	33204	5163410	Java	LOKI_78	
 100	33196	3358232	Python3	JessR	
 100	33160	5292178	C	MiaN.	
 100	33136	2079953	Python3	yaya92	
@@ -682,7 +683,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1026,time=2023-01-26 00:57:19
 100	28108	4105636	Perl	MatrixFailure	
 100	28048	1932031	Python3	Briossant	
 100	28028	4821969	Python3	grizzur	
-100	28012	5163410	Java	LOKI_78	
 100	27924	4134943	Python3	vinc-r	
 100	27888	4135188	Python3	jhewlett	
 100	27888	4262625	Python3	telerama	

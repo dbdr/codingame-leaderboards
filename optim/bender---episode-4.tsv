@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=287,time=2023-01-26 00:57:17
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=288,time=2023-01-27 00:51:35
 100	1570	4618693	PHP	cedricdd	
 100	1596	3918583	Rust	mikmak	
 100	1675	2288263	Rust	dbdr	
@@ -107,6 +107,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=287,time=2023-01-26 00:57:17
 16.666666666666668	811	1093968	C++	milosMATRIXrepic	
 16.666666666666668	1523	4484024	Python3	Hize	
 13.333333333333334	163	2769647	Java	RiffShark	
+13.333333333333334	163	1286024	Haskell	Math_Genius	
 13.333333333333334	709	723476	Python3	NeoPhnx	
 10	114	1061663	Python3	Pivis	
 10	186	226478	Python3	Balkin	
