@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6878,time=2023-01-27 00:51:34
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6883,time=2023-01-28 00:42:43
 100	2756	2288263	Rust	dbdr	
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
@@ -521,6 +521,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6878,time=2023-01-27 00:51:34
 100	4782	847675	Haskell	RobinHood	
 100	4813	2202751	C++	MacedoH	
 100	4815	2143315	Python3	FluffyToaster	
+100	4817	1601217	C++	Heide	
 100	4818	855492	Java	Erk	
 100	4821	1020626	Javascript	PiterYeh	
 100	4822	1747684	C#	Enot_Rakoed	
@@ -565,6 +566,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6878,time=2023-01-27 00:51:34
 100	5055	870653	C#	Argyl	
 100	5071	1479540	C#		
 100	5080	2574801	C#	sT0Ps	
+100	5095	4098770	Python3	LP19	
 100	5098	2408117	Python3	Brollyy	
 100	5106	4594770	Python3	picoplankton	
 100	5111	4559916	Javascript	Karne	
@@ -884,7 +886,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6878,time=2023-01-27 00:51:34
 100	5789	776401	C#	mshogren	
 100	5790	947230	C++	gupascal	
 100	5790	482445	C#	BogdanSavchenko	
-100	5790	4801044	C++	T19	
+100	5790	4801044	C++	mannouao	
 100	5791	3699585	Python3	Viande	
 100	5792	2650884	C++	chibix	
 100	5792	3960017	Python3	PaulM64	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6878,time=2023-01-27 00:51:34
 100	5859	900129	C++	Julien_E	
 100	5859	1861852	Javascript	Cramer	
 100	5860	802343	Java	Etheriel	
-100	5860	933394	Java	The_Muffin_Man	
-100	5860	283206	C#	tom103	

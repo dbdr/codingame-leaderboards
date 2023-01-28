@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4897,time=2023-01-27 00:51:25
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4898,time=2023-01-28 00:30:17
 0	47.16	1433161	1484525	C	mingu1.kang	
 0	45.61	494104	455215	C++	Recar	
 0	45.18	990110	357643	C++	Rogerup	
@@ -8,7 +8,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4897,time=2023-01-27 00:51:
 0	43.52	638784	351362	C	Yqnn	
 0	43.5	252533	2570353	Javascript	AlexSurin	
 0	43.44	1629259	2238404	C++	Marchete	
-0	43.4	351062	1847653	Java	Neumann	
+0	43.39	351062	1847653	Java	Neumann	
 0	43.38	2472606	3005863	C++	MehdiTouil	
 0	43.29	836415	363206	Java	tallo	
 0	43.29	3443015	3501494	C++	Wozniak	
@@ -417,11 +417,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4897,time=2023-01-27 00:51:
 0	34.77	2488395	1917074	OCaml	MPSI-LIVff	
 0	34.77	1378399	610995	Python3	DN38416	
 0	34.76	1416725	1229101	C	BayashiPascal	
-0	34.76	354788	349243	C++	Lexer31	
 0	34.76	2662359	1881411	Java	Javamat	
 0	34.76	536072	343971	Java	IKarl	
 0	34.76	1625108	797319	Python	graphite	
 0	34.75	792813	356355	Python3	VilBoub	
+0	34.74	354788	349243	C++	Lexer31	
 0	34.73	1053433	355354	Java	3WTochka	
 0	34.72	370259	343960	VB.NET	Queloune	
 0	34.72	155920	3868223	PHP	t2_cyborg	
@@ -510,7 +510,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4897,time=2023-01-27 00:51:
 0	34.31	765200	350611	C#	FrancoisB	
 0	34.3	1070718	354099	Java	Sims.	
 0	34.28	1186871	366966	Ruby	bnd	
-0	34.28	863265	356054	Java	Anaidel	
 0	34.28	1220209	368602	Java	NathanIstace	
 0	34.27	2653583	1913970	OCaml	glhf	
 0	34.26	783337	349922	Java	Dewey	
@@ -525,6 +524,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4897,time=2023-01-27 00:51:
 0	34.24	1853805	2422539	C++	LuckyMullet	
 0	34.24	244742	351221	C#	bhdejager	
 0	34.24	1061663	3043623	C++	Pivis	
+0	34.23	863265	356054	Java	Anaidel	
 0	34.23	445200	885503	Go	khreenberg	
 0	34.22	751369	340843	C++	tibithegreat	
 0	34.22	1049414	356906	Python	TheSpeller	
@@ -656,11 +656,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4897,time=2023-01-27 00:51:
 0	33.08	900666	353240	Java	lgsmitty	
 0	33.04	826359	346562	Python3	Skywalker	
 0	33.04	890295	353410	C	Krayz	
+0	33.03	197298	351835	Java	Falkor	
 0	33.02	1792532	2702493	C#	Zanbez	
 0	32.99	973948	365559	Python3	Amnesix	
 0	32.97	887370	357727	C#	Luuna	
 0	32.97	1040508	354817	C#	Deuclos	
-0	32.97	197298	351835	Java	Falkor	
 0	32.97	1063575	350076	C#	TomaszMalik	
 0	32.96	1077623	345476	C	BOABDEAL	
 0	32.95	431256	344924	C#	Ps-spectre	
@@ -815,7 +815,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4897,time=2023-01-27 00:51:
 0	32.01	4347114	3708471	OCaml	Tizzart_MPSI-LIV	
 0	32	978754	352232	Java	flower_child	
 0	31.99	935502	346696	C++	Tikss	
-0	31.97	292846	1622962	C++	Ninja	
 0	31.97	4105042	4514422	TypeScript	LasithaYapa	
 0	31.96	4347104	3708466	OCaml	Tetraxene-MPSI-LIV	
 0	31.95	1316945	398932	Ruby	aeris22	
@@ -826,6 +825,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4897,time=2023-01-27 00:51:
 0	31.87	1336780	606765	C++	SergejA	
 0	31.86	3317120	2836664	Python3	Ncat_Memphis	
 0	31.86	880044	341687	C#	Dalmali	
+0	31.85	292846	1622962	C++	Ninja	
 0	31.84	4347451	3708461	OCaml	SimonIngrassiaMPSI-LIV	
 0	31.83	543181	353244	Java	dominisz	
 0	31.82	375688	343831	Java	fcgb87	
@@ -847,11 +847,11 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4897,time=2023-01-27 00:51:
 0	31.53	1412263	4403300	PHP	PatrickMcGinnisII	
 0	31.51	1382430	4453287	C	Takenoko	
 0	31.5	294302	339353	C++	vorkostil	
-0	31.49	2528944	1916431	OCaml	MPSI_LIV_La_caste	
 0	31.49	155853	583565	Java	gansheer	
 0	31.49	3547012	4403425	C++	Mick.Kang	
 0	31.48	937740	344410	Python	rnd495	
 0	31.44	406188	351844	C++	parallel	
+0	31.44	2528944	1916431	OCaml	MPSI_LIV_La_caste	
 0	31.43	1448366	576791	C++	Mihai2121	
 0	31.42	954005	477233	Python3	sulan	
 0	31.42	4347107	3715382	OCaml	bambi_MPSI_LIV_2020	
@@ -862,13 +862,13 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4897,time=2023-01-27 00:51:
 0	31.38	270926	347486	Python	NigelSheldon	
 0	31.36	1058101	342821	C++	FloPanda	
 0	31.35	842203	357470	C++	ji_no	
+0	31.34	1511645	644788	Python	OleksandrVoytsekhovskyy	
 0	31.32	1805428	3715598	OCaml	lpmib	
 0	31.32	2055377	1467199	C++	Covfefe	
 0	31.31	1451495	492094	C++	TallDwarf	
 0	31.27	587313	352933	C#	o4815162342	
 0	31.26	600941	347351	C++	mrv	
 0	31.22	884495	340989	C#	rafaelbc	
-0	31.21	1511645	644788	Python	OleksandrVoytsekhovskyy	
 0	31.2	1042118	357963	C	neb	
 0	31.19	1428084	3978289	Dart	Mixolyde	
 0	31.14	1003800	347103	Go	Summus_Qualitas	

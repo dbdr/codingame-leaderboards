@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4129,time=2023-01-27 00:30:09
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4131,time=2023-01-28 00:30:10
 5	33.53	494104	960105	C++	Recar	
 5	33.01	3457031	3994469	C++	YurkovAS	
 5	31.65	3533119	3994180	C++	wlesavo	
@@ -879,9 +879,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4129,time=2023-01-27 00:30:
 3	27.44	2824008	4713844	C++	OccitanieFreelancer	
 3	27.23	1183644	937719	C++	Donotalo	
 3	27.18	1774677	1407544	C++	foufou120	
-3	27.06	1555765	937764	C#	DewJunkie	
+3	27.15	1555765	937764	C#	DewJunkie	
 3	27.02	2688693	1961199	Go	Catagami	
-3	26.92	4252234	3495817	C++	Nzk	
+3	26.91	4252234	3495817	C++	Nzk	
 3	26.83	842381	937466	C	Mounhy	
 3	26.39	4276140	4083263	C++	WeZ	
 3	26.38	330929	937993	Java	shilov	
@@ -929,12 +929,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4129,time=2023-01-27 00:30:
 3	25.49	816936	937984	Python3	aurimukas	
 3	25.45	1926322	1212463	Java	ANewHope2017	
 3	25.44	871430	937581	Java	Arkandias	
-3	25.36	2847829	3339835	C++	bcwaitwaiter	
+3	25.44	2847829	3339835	C++	bcwaitwaiter	
 3	25.34	810438	937955	C++	Sasurai	
 3	25.31	3936833	3072616	C++	algoliga2020	
 3	25.3	1676554	937613	Python3	34003552	
-3	25.3	381749	937888	C++	AlexJH	
 3	25.29	2232336	1483418	C#	jking8	
+3	25.29	381749	937888	C++	AlexJH	
 3	25.23	153674	938600	C	GQMP	
 3	25.23	1688887	958727	C#	Kryptum	
 3	25.2	1802967	2449261	Python3	Meruem	
@@ -946,7 +946,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4129,time=2023-01-27 00:30:
 3	25.07	826833	937508	C++	Hao	
 3	25.07	824766	937452	Java	knard	
 3	25.07	812420	937437	Python3	rndczn	
-3	25.05	3494517	3944287	Javascript	Rigelrain	
 3	25.03	2213167	1503868	Java	Camillie	
 3	25.03	815710	937970	Java	Frax	
 3	25.02	608523	937814	C++	Blinkq	
@@ -958,6 +957,7 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4129,time=2023-01-27 00:30:
 3	24.94	3795745	4386725	Javascript	Soboku	
 3	24.9	1364613	937940	Java	DudeXIII	
 3	24.9	173522	937504	C#	TeddyS	
+3	24.9	3494517	3944287	Javascript	Rigelrain	
 3	24.79	975571	937388	Python3	Gophys	
 3	24.76	1752947	976594	Java	maxkan	
 3	24.74	5164522	4709849	C++	Nikhilj11	
@@ -966,8 +966,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4129,time=2023-01-27 00:30:
 3	24.68	3848680	3488362	C	Ziomeczek	
 3	24.62	614974	937967	C++	Einstein_Division	
 3	24.56	1520298	943836	C#	Bejn	
+3	24.53	1106450	971809	C++	RiSuS	
 3	24.53	153965	937537	Python3	[CG]Keelhaul	
-3	24.52	1106450	971809	C++	RiSuS	
 3	24.45	648978	937945	C++	winger	
 3	24.42	316274	937555	Python	grivin	
 3	24.36	607941	937769	Python	kardaj	
