@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=340,time=2023-01-28 00:42:45
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=340,time=2023-01-29 00:33:28
 100	4638	4341304	C++	Remi.	
 100	4654	3949307	Perl	xevixevi	
 100	4743	2288263	Rust	dbdr	
@@ -82,6 +82,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=340,time=2023-01-28 00:42:45
 100	43692	1607522	PHP	RoboStac	
 100	44133	1938265	PHP	ANONYMOUS42	
 100	44275	3305510	PHP	TBali	
+100	44622	508460	C++	Volia	
 100	44812	1802967	Python3	Meruem	
 100	45172	2069141	C#	tomeko	
 100	45633	1952778	PHP	blast_beat	
@@ -89,7 +90,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=340,time=2023-01-28 00:42:45
 100	46434	3127864	PHP	TeamT	
 100	47047	3486648	Python3	illliliiiliiiillli	
 100	47120	3783962	Python3	Mohsen1365ir	
-100	47364	508460	C++	Volia	
 100	47968	841420	Python3	RandomVariable	
 100	48443	4526264	PHP	cly	
 100	48663	3919068	PHP	14598366	

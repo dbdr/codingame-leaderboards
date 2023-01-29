@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=397,time=2023-01-28 00:42:47
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=399,time=2023-01-29 00:33:30
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
@@ -48,12 +48,12 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=397,time=2023-01-28 00:42:47
 100	209280	4257906	Rust	NotSureWhyThisWorks	
 100	209613	508460	C++	Volia	
 100	209635	1152991	C#	xoposhiy	
+100	209682	5241284	C++	vital228	
 100	210094	4110073	C++	souta_1326	
 100	210261	3184049	Python3	ghhttt	
 100	210408	2438514	C++	davi_bart	
 100	210551	3983017	PHP	TLbuis	
 100	210563	820000	C++	ValGrowth	
-100	210797	5241284	C++	vital228	
 100	210862	4083537	Python3	DavidAvsajanishvili	
 100	210883	2350415	C++	Vintarel	
 100	211122	2765655	C#	El_Mono_Sin_Sombra	
@@ -74,6 +74,8 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=397,time=2023-01-28 00:42:47
 100	213026	935744	C	Alcalyn	
 100	213377	1380703	Python3	Blabbage	
 100	213461	1861258	Rust	Nazdhun	
+100	213529	4506498	Rust	TimeEngineer	
+100	213586	4293521	Python3	AnteCristo	
 100	213842	973040	F#	papyjo	
 100	213865	2981630	C++	IHateTheIDEPlayLimit	
 100	214100	2674460	Python3	Malte42	
@@ -127,7 +129,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=397,time=2023-01-28 00:42:47
 100	230165	3802525	C#	Chibikko	
 100	230430	4674218	Python3	Kirin04	
 100	230452	3996809	Kotlin	VizGhar	
-100	230509	4293521	Python3	AnteCristo	
 100	231551	1243354	C++	RSBat	
 100	231750	2069141	C#	tomeko	
 100	231754	3389236	C#	spuriga	
@@ -162,6 +163,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=397,time=2023-01-28 00:42:47
 100	240723	3657937	Python3	elderlybeginner	
 100	240723	2616395	Javascript	welder	
 100	240892	4441094	Python3	Oric1	
+100	241145	3749245	Python3	yveslacroix83400	
 100	243248	3729666	Python3	peerdb	
 100	243415	3513265	C++	DaNinja	
 100	243481	5187329	C++	AllardDB	
@@ -321,7 +323,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=397,time=2023-01-28 00:42:47
 100	419282	1883740	C++	kermo	
 100	440947	4946800	Python3	Vincent-T	
 100	441964	4206982	Ruby	slempel	
-100	443595	4506498	Rust	TimeEngineer	
 100	446137	4081634	Javascript	Wontonimo	
 100	452120	1473789	C++	jebouin	
 100	462125	1129326	Python3	CeliTop	
@@ -338,6 +339,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=397,time=2023-01-28 00:42:47
 100	1046742	4356869	C++	mateusvmv	
 100	1050053	3268086	Javascript	Xaetral	
 100	1065871	5212758	C++	ruier	
+100	1066714	969500	Javascript	AnasShami	
 100	1290033	5025755	Javascript	TomBAN	
 100	1320187	4756693	Python3	MorningWalk	
 100	1320187	4461635	Python3	Tibirius	

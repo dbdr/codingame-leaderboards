@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=414,time=2023-01-28 00:42:45
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=414,time=2023-01-29 00:33:29
 100	291	2288263	Rust	dbdr	
 100	293	3949307	C++	xevixevi	
 100	295	1339675	C++	SR4	
@@ -66,6 +66,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=414,time=2023-01-28 00:42:45
 100	363	440476	C++	yowa	
 100	364	3738782	C#	Inaniwa	
 100	364	1684020	Python3	tom_	
+100	364	4506498	Rust	TimeEngineer	
 100	369	5072331	C++	TiPoix	
 100	379	3343665	Rust	Quidome	
 100	380	1393802	Rust	amzh	
@@ -396,7 +397,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=414,time=2023-01-28 00:42:45
 2.1739130434782608	13550	3555728	Python3	KVNMDS	
 2.1739130434782608	13550	2070953	Java	programdestroyer	
 2.1739130434782608	13550	4819486	Java	AbonDukar	
-0	301	4506498	Rust	TimeEngineer	
 0	13846	3627342	C#	Zuabros	
 0	13846	3901646	Python3	VarjaListopad	
 0	13846	153002	C#	fantasyo	
