@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=399,time=2023-01-29 00:33:30
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=401,time=2023-01-30 00:48:23
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
@@ -46,9 +46,9 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=399,time=2023-01-29 00:33:30
 100	209203	1549856	TypeScript	Keylan	
 100	209210	1489865	C++	EricSMSO	
 100	209280	4257906	Rust	NotSureWhyThisWorks	
+100	209544	5241284	C++	vital228	
 100	209613	508460	C++	Volia	
 100	209635	1152991	C#	xoposhiy	
-100	209682	5241284	C++	vital228	
 100	210094	4110073	C++	souta_1326	
 100	210261	3184049	Python3	ghhttt	
 100	210408	2438514	C++	davi_bart	
@@ -103,8 +103,10 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=399,time=2023-01-29 00:33:30
 100	219228	1131528	C#	Owl	
 100	219619	4044949	Java	Exanc	
 100	219855	3938395	C++	Quentin18	
+100	219989	3749245	Python3	yveslacroix83400	
 100	220260	4031451	Java	pbou	
 100	220943	4562865	Python3	VilBoub_junior	
+100	221043	1968855	PHP	ThePurificator	
 100	221207	2765000	Javascript	Nowan	
 100	221328	4069504	Python3	ElBoudah	
 100	221669	3496153	Python3	lndshs	
@@ -163,7 +165,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=399,time=2023-01-29 00:33:30
 100	240723	3657937	Python3	elderlybeginner	
 100	240723	2616395	Javascript	welder	
 100	240892	4441094	Python3	Oric1	
-100	241145	3749245	Python3	yveslacroix83400	
 100	243248	3729666	Python3	peerdb	
 100	243415	3513265	C++	DaNinja	
 100	243481	5187329	C++	AllardDB	
@@ -395,6 +396,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=399,time=2023-01-29 00:33:30
 0	-15	5293479	Python3		
 0	-15	5163410	Java	LOKI_78	
 0	-15	5303909	Python3		
+0	-15	2824008	C#	OccitanieFreelancer	
 0	0	4759510	Java	Darleanow	
 0	0	5103578	Python3		
 0	0	5224036	Java		

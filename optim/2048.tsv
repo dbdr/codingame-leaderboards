@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1029,time=2023-01-29 00:33:29
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1031,time=2023-01-30 00:48:22
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353552	2436448	C++	FrancoisMeme	
@@ -560,6 +560,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1029,time=2023-01-29 00:33:29
 100	45732	1664043	Javascript	GloboGamer	
 100	45624	3611257	C++	Apodus	
 100	45200	4002619	Python3	LiJu09	
+100	45016	5195059	Rust	Kkameleon	
 100	44840	2227858	C#	SnailMan	
 100	44784	4685891	Python3	Laki_42	
 100	44064	3978509	PHP	elePHPant	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1029,time=2023-01-29 00:33:29
 100	344	4796246	C++	Razgoul	
 100	344	5016177	Javascript	ashutoshpatro	
 100	344	5020096	TypeScript	dabai~	
-100	344	1630012	Rust	vinogradnick	

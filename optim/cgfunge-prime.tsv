@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=340,time=2023-01-29 00:33:28
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=342,time=2023-01-30 00:48:21
 100	4638	4341304	C++	Remi.	
 100	4654	3949307	Perl	xevixevi	
 100	4743	2288263	Rust	dbdr	
@@ -82,7 +82,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=340,time=2023-01-29 00:33:28
 100	43692	1607522	PHP	RoboStac	
 100	44133	1938265	PHP	ANONYMOUS42	
 100	44275	3305510	PHP	TBali	
-100	44622	508460	C++	Volia	
+100	44575	508460	C++	Volia	
 100	44812	1802967	Python3	Meruem	
 100	45172	2069141	C#	tomeko	
 100	45633	1952778	PHP	blast_beat	
@@ -230,6 +230,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=340,time=2023-01-29 00:33:28
 70	70789	1272263	PHP	Caled	
 69	76426	1484839	PHP	sparky	
 68	80702	3842838	Python3	Streusel	
+67	84342	5195059	PHP	Kkameleon	
 67	84725	614215	Java	Jo	
 65	81305	4166555	PHP	Natanalel	
 63	1051	1713174	Python3	BigUP	
@@ -313,6 +314,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=340,time=2023-01-29 00:33:28
 53	3816	1440111	Java	nicZ	
 53	3816	3790676	Python3	piter239	
 53	3816	5283968	Go	its0me0Nick	
+53	3816	2824008	C#	OccitanieFreelancer	
 53	5989	3770485	PHP	zakki	
 53	25822	3369525	PHP	LunEyx	
 53	66321	4585938	Python3	Risodu	

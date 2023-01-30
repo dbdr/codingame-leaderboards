@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=459,time=2023-01-29 00:33:30
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=460,time=2023-01-30 00:48:23
 100	62940	2077805	C++	bamilan	
 100	62937	2288263	Rust	dbdr	
 100	62936	977117	C++	Psyho	
@@ -458,3 +458,4 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=459,time=2023-01-29 00:33:30
 100	0	5298907	Python3	TonyCHabib	
 100	0	5305228	Python3	Andrysha3	
 100	0	5210709	C++	AyHuGo	
+100	0	2824008	C#	OccitanieFreelancer	
