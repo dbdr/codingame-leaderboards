@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6886,time=2023-01-30 00:48:20
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6890,time=2023-01-31 01:33:32
 100	2756	2288263	Rust	dbdr	
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
@@ -520,9 +520,9 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6886,time=2023-01-30 00:48:20
 100	4777	594697	C#	dimulien	
 100	4779	1234947	Java	kuro	
 100	4782	847675	Haskell	RobinHood	
+100	4798	1601217	C++	Heide	
 100	4813	2202751	C++	MacedoH	
 100	4815	2143315	Python3	FluffyToaster	
-100	4817	1601217	C++	Heide	
 100	4818	855492	Java	Erk	
 100	4821	1020626	Javascript	PiterYeh	
 100	4822	1747684	C#	Enot_Rakoed	

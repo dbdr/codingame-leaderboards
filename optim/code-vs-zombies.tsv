@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=16731,time=2023-01-30 00:48:20
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=16738,time=2023-01-31 01:33:32
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -886,6 +886,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=16731,time=2023-01-30 00:48:20
 100	76350	3869618	Python3	tsds	
 100	76310	1469666	Python3	alenic	
 100	76160	2421141	Python3	HomerS.	
+100	76120	4031451	Java	pbou	
 100	75990	504994	Java	NikitON	
 100	75980	1908091	Python3	RedAustin	
 100	75700	1440207	Python3	Rungekutta	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=16731,time=2023-01-30 00:48:20
 100	66480	2797677	C++	kolph	
 100	66410	4134943	Python3	vinc-r	
 100	66380	1073834	C++	POLOB	
-100	66360	1334166	C++	xSkyline	

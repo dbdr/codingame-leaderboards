@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=401,time=2023-01-30 00:48:23
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=420,time=2023-01-31 01:33:35
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
@@ -42,11 +42,11 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=401,time=2023-01-30 00:48:23
 100	207940	992329	C++	BeeGee	
 100	208303	792813	Python3	VilBoub	
 100	208869	1348635	C++	ferbos	
+100	209178	5241284	C++	vital228	
 100	209198	2962968	C#	Pukunya	
 100	209203	1549856	TypeScript	Keylan	
 100	209210	1489865	C++	EricSMSO	
 100	209280	4257906	Rust	NotSureWhyThisWorks	
-100	209544	5241284	C++	vital228	
 100	209613	508460	C++	Volia	
 100	209635	1152991	C#	xoposhiy	
 100	210094	4110073	C++	souta_1326	
@@ -174,26 +174,34 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=401,time=2023-01-30 00:48:23
 100	244945	2110342	Javascript	lchenay	
 100	245296	4534733	Python3	Damko757	
 100	245952	1712335	Python3	Antoine-caron	
+100	245961	4632647	Python3	Darkrentin	
 100	246313	1306289	Python3	Jasperr	
 100	246661	5149711	Python3	burdanas	
 100	246872	999637	Python3	dinobogan	
+100	247175	4652686	Python3	Victorr	
 100	247220	4717007	Python3	Anktinosia	
 100	247258	4718620	Pascal	Hieronymus	
 100	247358	2625928	C#	Leonard.	
 100	247678	1115053	C++	xlREDlx	
+100	247828	5135598	Python3	Boeuf_Bourguignon	
 100	247996	2628455	Python3	PDF	
 100	248048	4073854	Python3	Buk.	
 100	248147	4888782	PHP	odaxav	
 100	248320	4136008	Python3	jerry_laevis	
 100	248616	3533119	C++	wlesavo	
 100	248690	4801044	C++	mannouao	
+100	248712	4636989	Python3	Clemalex.lf	
 100	249136	4791516	Python3		
 100	249335	4023428	Java	HenTeK	
 100	249440	837350	Python3	BorisZ	
+100	249933	5135583	Python3	GaufreOsucr3	
+100	249933	5067884	Python3	bearnaise	
+100	249933	5135590	Python3	amiyy	
 100	250047	2637659	C#	Barsy	
 100	250070	4704154	C++	unsinn	
 100	250070	4664816	C++	lexx_it	
 100	250070	5223936	Java		
+100	250070	4626700	PHP	JohnyDarecek	
 100	250215	3826720	C++	Noppo	
 100	250215	3439872	Python3	xdcomrade	
 100	250215	4585938	Python3	Risodu	
@@ -302,6 +310,15 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=401,time=2023-01-30 00:48:23
 100	250555	3507389	Python3	sylarox	
 100	250555	5296165	C#	impalax	
 100	250555	1477385	Rust	Multimodcrafter	
+100	250555	5135302	Python3	Tony_Ssahr	
+100	250555	4714678	Python3	coconnexion	
+100	250555	5029848	Python3	Slayd	
+100	250555	5135311	Python3	Yuuzuu	
+100	250555	5063072	Python3	MaximBestof	
+100	250555	4632649	Python3	username_already_taken	
+100	250555	5063003	Python3	Martinovish920	
+100	250555	5135601	Python3	zoom1870	
+100	250555	5135592	Python3	Lospar	
 100	250784	1179357	Rust	avdg	
 100	251611	4954542	Python3	Drunkey	
 100	252346	4610806	C#	Nickythita	
@@ -375,10 +392,12 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=401,time=2023-01-30 00:48:23
 100	2219406	3596611	C++	Dan4Life	
 100	2219406	5247835	Python3	roottreej	
 100	2219406	5240462	C++	-mc-	
+100	2219406	4231728	C#	TojoNatolotra	
 100	2223289	3136787	Python3	jacek	
 100	2784200	4211056	C#	Nachosauce	
 100	3211740	1378958	C#	Illedan	
 100	3246732	1500515	Python3	eulerscheZahl	
+20	18166	5317576	Python3	me92	
 13.333333333333334	8243	5205827	Python3		
 13.333333333333334	8243	5265791	Python3	Searcherr	
 6.666666666666667	5240	4315171	Java	Soucis	
