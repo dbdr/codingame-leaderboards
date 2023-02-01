@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1031,time=2023-01-31 01:33:35
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1032,time=2023-02-01 00:37:58
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353552	2436448	C++	FrancoisMeme	
@@ -194,6 +194,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1031,time=2023-01-31 01:33:35
 100	981320	1473789	C++	jebouin	
 100	941900	3473364	Rust	Alexdelia	
 100	930052	3141948	Java	philRG	
+100	921140	4869341	C	anopse	
 100	920260	2874091	Python3	5DN1L	
 100	918632	2315158	Java	luigi_gelato	
 100	894468	3812486	Javascript	gitKad	
@@ -289,6 +290,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1031,time=2023-01-31 01:33:35
 100	149300	4176076	C++	2134512	
 100	144428	4072753	C++	mdstoy	
 100	140156	4352240	Python3	PaptimusScirocco2	
+100	139732	5163410	Java	LOKI_78	
 100	138316	4083405	C++	jzen	
 100	136504	3556476	C#	YohanC	
 100	135484	1178401	Python3	mizzHuarta	
@@ -564,7 +566,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1031,time=2023-01-31 01:33:35
 100	44840	2227858	C#	SnailMan	
 100	44784	4685891	Python3	Laki_42	
 100	44064	3978509	PHP	elePHPant	
-100	43688	5163410	Java	LOKI_78	
 100	43648	958227	Python3	LantarSidonis	
 100	43648	2331861	Java	AranoBredero	
 100	43648	1480426	Python3	Hikari42	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1031,time=2023-01-31 01:33:35
 100	344	4377989	Python3	khanglovesIT	
 100	344	4796246	C++	Razgoul	
 100	344	5016177	Javascript	ashutoshpatro	
-100	344	5020096	TypeScript	dabai~	

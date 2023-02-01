@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=958,time=2023-01-31 01:33:34
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=958,time=2023-02-01 00:37:57
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -100,7 +100,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=958,time=2023-01-31 01:33:34
 100	12526.309999999996	1443075	C++	Wolfy82	
 100	12540.37	4071357	Python3	GrowlingBear	
 100	12540.469999999998	4257906	C++	NotSureWhyThisWorks	
-100	12558.58	3647844	C++	rc95401	
+100	12545.040000000005	3647844	C++	rc95401	
 100	12582.87	4802305	Python3	GervantFromRovia	
 100	12602.799999999996	2629686	C#	krutovsky	
 100	12604.09	1169499	C++	naab	
@@ -657,6 +657,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=958,time=2023-01-31 01:33:34
 98	17057.63	1883740	C++	kermo	
 98	17890.550000000003	2258829	C#	Hiker	
 98	18120.46	4286679	Python3	fungi_star	
+98	19173	1861258	Rust	Nazdhun	
 98	19308.55	2998967	TypeScript	Gilde	
 98	19749.700000000004	1427078	C++	ToshiTuringMachine	
 98	20518.800000000003	2926667	C++	RonRo	
@@ -736,7 +737,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=958,time=2023-01-31 01:33:34
 96	25261.67	1082988	Python3	Saelyos	
 96	25420.459999999985	1457223	C++	jleconte	
 96	25591.3	1688826	TypeScript	statox	
-94	20420	1861258	Rust	Nazdhun	
 94	22145.999999999996	1305374	C#	Frankich	
 94	22433.779999999988	1931039	TypeScript	MooMooN	
 94	23533.97	3897897	Python3	____Z_X_C____	

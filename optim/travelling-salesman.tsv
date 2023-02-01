@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=420,time=2023-01-31 01:33:35
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=422,time=2023-02-01 00:37:58
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
@@ -11,6 +11,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=420,time=2023-01-31 01:33:35
 100	201389	5062387	Javascript	Tenclea	
 100	201404	893541	Java	wala	
 100	201472	4208158	Python3	Tiouz	
+100	201472	3749245	Python3	yveslacroix83400	
 100	201757	3770880	Java	Yu_212	
 100	202080	1344487	C++	UnnamedCodinGamer	
 100	202103	3918583	Rust	mikmak	
@@ -103,7 +104,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=420,time=2023-01-31 01:33:35
 100	219228	1131528	C#	Owl	
 100	219619	4044949	Java	Exanc	
 100	219855	3938395	C++	Quentin18	
-100	219989	3749245	Python3	yveslacroix83400	
 100	220260	4031451	Java	pbou	
 100	220943	4562865	Python3	VilBoub_junior	
 100	221043	1968855	PHP	ThePurificator	
@@ -202,6 +202,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=420,time=2023-01-31 01:33:35
 100	250070	4664816	C++	lexx_it	
 100	250070	5223936	Java		
 100	250070	4626700	PHP	JohnyDarecek	
+100	250070	4231728	C#	TojoNatolotra	
 100	250215	3826720	C++	Noppo	
 100	250215	3439872	Python3	xdcomrade	
 100	250215	4585938	Python3	Risodu	
@@ -319,6 +320,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=420,time=2023-01-31 01:33:35
 100	250555	5063003	Python3	Martinovish920	
 100	250555	5135601	Python3	zoom1870	
 100	250555	5135592	Python3	Lospar	
+100	250555	5307134	Python3		
 100	250784	1179357	Rust	avdg	
 100	251611	4954542	Python3	Drunkey	
 100	252346	4610806	C#	Nickythita	
@@ -378,11 +380,12 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=420,time=2023-01-31 01:33:35
 100	2207982	5103565	Python3		
 100	2209816	5103568	C++	Pushak	
 100	2212202	3738308	Javascript	sgbd	
+100	2215031	5098780	Java	EstassyZeus	
 100	2217143	4442007	C++	D3Dou	
 100	2219406	4367329	C#	Mr.WhiskeyPerson	
 100	2219406	3603097	Javascript	lanathlor	
 100	2219406	3074711	Javascript	LeoLet	
-100	2219406	3965450	C++	DemmHadis	
+100	2219406	3965450	C++	Asidic	
 100	2219406	1114834	Python3	k4ng0u	
 100	2219406	1525831	Python3	ntsd	
 100	2219406	4771365	Python3	J56164	
@@ -392,7 +395,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=420,time=2023-01-31 01:33:35
 100	2219406	3596611	C++	Dan4Life	
 100	2219406	5247835	Python3	roottreej	
 100	2219406	5240462	C++	-mc-	
-100	2219406	4231728	C#	TojoNatolotra	
 100	2223289	3136787	Python3	jacek	
 100	2784200	4211056	C#	Nachosauce	
 100	3211740	1378958	C#	Illedan	
