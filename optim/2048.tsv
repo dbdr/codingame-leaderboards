@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1032,time=2023-02-01 00:37:58
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1039,time=2023-02-02 00:54:47
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353552	2436448	C++	FrancoisMeme	
@@ -285,12 +285,12 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1032,time=2023-02-01 00:37:58
 100	163796	531863	Java	Amin	
 100	161352	1457162	Python3	JFB	
 100	157876	1740237	Python3	OlegKornelsen	
+100	154988	5163410	Java	LOKI_78	
 100	152796	4045442	Python3	slapslash	
 100	150844	3488041	Rust	KodeMonkey	
 100	149300	4176076	C++	2134512	
 100	144428	4072753	C++	mdstoy	
 100	140156	4352240	Python3	PaptimusScirocco2	
-100	139732	5163410	Java	LOKI_78	
 100	138316	4083405	C++	jzen	
 100	136504	3556476	C#	YohanC	
 100	135484	1178401	Python3	mizzHuarta	
@@ -312,6 +312,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1032,time=2023-02-01 00:37:58
 100	101560	3922731	Scala	Dartisan	
 100	101548	2662309	C#	AnInventiveNameOfRepute	
 100	100860	1849062	Python3	AnkitAnand_12	
+100	100860	5077862	Python3	KolokolovAlexandr	
 100	99464	4364520	Scala	1rre	
 100	98892	4159245	Go	Karhuttaja	
 100	98508	3420134	C++	KelvinAndHubbles	
@@ -331,6 +332,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1032,time=2023-02-01 00:37:58
 100	90280	4117624	Python3	Thibb1	
 100	89352	2995359	C#	SL_Gambit	
 100	89252	4510576	C++	__Malina	
+100	89112	5103539	Python3	MoscalT	
 100	88136	1590522	C++	Eddyty	
 100	87920	3606971	Javascript	LordVonAdel	
 100	87456	759147	C++	kisszots	
@@ -346,8 +348,10 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1032,time=2023-02-01 00:37:58
 100	81012	4360410	Java	phinou	
 100	80700	3478673	Javascript	never-again	
 100	80464	2257655	C++	rycbaryana	
-100	80200	4808282	Python3	MaxKuzya03	
-100	80200	5103632	Python3		
+100	80200	4808282	Python3	MaxKuzya	
+100	80200	5103632	Python3	CMEPT	
+100	80200	3781953	Python3	ivvv	
+100	80200	5103574	Python3	viktor_korneeb	
 100	80000	2414853	Python3	StephaneLaveau	
 100	79900	523185	Python3	Hjax	
 100	79660	894599	Python3	DidierC	
@@ -365,6 +369,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1032,time=2023-02-01 00:37:58
 100	74988	4111058	Perl	Perlorodka	
 100	74580	1542064	C++	Skyr83	
 100	74580	5063215	Python3	Lenson23	
+100	74580	5103566	Python3	Shishkin_I	
 100	74348	810629	C#	Lukey	
 100	73972	4218167	C#	33L3H2	
 100	73820	5063264	C++		
@@ -395,7 +400,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1032,time=2023-02-01 00:37:58
 100	66568	4147861	Python3	FelixRichter2000	
 100	66420	385699	Go	Nikai	
 100	66064	304363	Javascript	chocolord	
-100	65956	4060722	Java	StevenV	
+100	65956	4060722	Java	GemPlatinum	
 100	65944	2069141	C#	tomeko	
 100	65944	3025295	C++	DimaKalabuk	
 100	65832	1782005	Python3	AlexW	
@@ -476,6 +481,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1032,time=2023-02-01 00:37:58
 100	54324	4864714	C++	Dzenon	
 100	54176	3876796	Python3	Dyavolo	
 100	54156	2419811	Rust	Valbou	
+100	54132	5103596	Python3	leviathanictr	
 100	53576	4033445	Javascript	netto________	
 100	53576	819064	Rust	rampion	
 100	53576	1243354	C++	RSBat	
@@ -742,6 +748,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1032,time=2023-02-01 00:37:58
 100	23680	4184379	Go	romain.wg	
 100	23680	4819360	C	Vemore	
 100	23680	5066309	Python3	SIR-EBI	
+100	23632	5103636	Python3	Snow_fox	
 100	23192	3365527	Go	Civiled	
 100	22996	4759510	Python3	Darleanow	
 100	22676	1766900	Python3	zanintony	
@@ -802,6 +809,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1032,time=2023-02-01 00:37:58
 100	5596	4798287	Javascript	Pietsen	
 100	5092	3881328	Kotlin	Teku_Dev	
 100	5092	660616	Rust	onkery	
+100	5092	5319957	Python3	zyn1x	
 100	4992	3629224	Python3	NC_Productions	
 100	4948	1039948	Java	ledokubelis	
 100	4832	3349513	Python3	Lamisedaxeh	
@@ -991,11 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1032,time=2023-02-01 00:37:58
 100	344	4528623	Python3	2010david	
 100	344	4819910	C#	Descko	
 100	344	3574858	Python3	lolTempest	
-100	344	420785	Javascript	Max52	
-100	344	186179	C++	Nagrarok	
-100	344	1076716	Python3	OEtzi007	
-100	344	4953074	Javascript	jwpapi	
-100	344	3535836	Python3	Thanh2022	
-100	344	4377989	Python3	khanglovesIT	
-100	344	4796246	C++	Razgoul	
-100	344	5016177	Javascript	ashutoshpatro	

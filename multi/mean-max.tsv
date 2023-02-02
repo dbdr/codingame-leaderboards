@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2735,time=2023-02-01 00:37:43
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2735,time=2023-02-02 00:51:06
 6	32.15	3457031	4432964	C	YurkovAS	
 6	31.23	1607522	1862549	C++	RoboStac	
 6	31.15	1452472	1611370	C++	Daporan	
@@ -538,8 +538,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2735,time=2023-02-01 00:37:
 3	25.94	999637	1610997	C	dinobogan	
 3	25.89	3501089	2613733	C++	zaidejas	
 3	25.89	1484839	1857051	Perl	sparky	
+3	25.88	2469145	4068434	C++	amddar	
 3	25.85	3501078	2613735	C++	neda02	
-3	25.81	2469145	4068434	C++	amddar	
 3	25.79	1411068	1641325	Python3	Marintoro	
 3	25.74	2220925	1585667	C#	Lativado	
 3	25.64	2095220	1608413	Python3	Labaro	
@@ -560,8 +560,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2735,time=2023-02-01 00:37:
 3	25.16	1201783	3048619	Python3	qsantos	
 3	25.11	4194335	3839523	Javascript	crvn	
 3	25.09	854169	1609820	C++	Silmaen	
-3	25.08	3542938	2607945	C++	Vikuuuse	
 3	25.04	1728288	1611421	C#	MOLP	
+3	25.02	3542938	2607945	C++	Vikuuuse	
 3	24.98	4839694	4073425	Java	TheAppleTeam	
 3	24.96	4126886	3614708	Java	NickSaidSomethingWonderful	
 3	24.95	2412075	1641516	Python3	UnnAmmEdd	
@@ -690,20 +690,20 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2735,time=2023-02-01 00:37:
 3	22.19	3455804	3137021	Javascript	D0SD3	
 3	22.16	1814485	1586082	C#	Fluttershy	
 3	22.14	5059252	4522384	C++	Bernardas11	
-3	22.09	425462	1588165	Java	Azt-yur	
 3	22.04	1827247	1588429	C++	mmmd	
 3	22.04	2482205	2619548	C++	Viskolas	
 3	22.02	860297	3479952	C++	charlieamer	
 3	22	2836264	2598424	C++	M0N1K4	
 3	22	1684030	1600682	Java	Mator	
 3	22	799904	4295910	C++	iwashi31	
+3	21.97	425462	1588165	Java	Azt-yur	
 3	21.94	3568092	2600612	C++	Serva	
 3	21.91	2378225	1636098	Python3	okon	
 3	21.83	3559640	2593859	C++	Dofke	
+3	21.79	1311521	1596260	C++	dbzadnen	
 3	21.77	1390227	2012749	Javascript	scorbiere	
 3	21.77	5059250	4522387	C++	MRbread	
 3	21.75	1304339	1596985	Python3	leag63	
-3	21.74	1311521	1596260	C++	dbzadnen	
 3	21.74	4520980	3889034	C++	Friendekas	
 3	21.65	2474883	2252349	Python3	lakeoverflow	
 3	21.62	2954549	2238460	Javascript	CaffeinatedTech	
@@ -765,12 +765,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2735,time=2023-02-01 00:37:
 3	20.06	429845	1587056	C++	steve3003	
 3	20.01	1186292	1590112	Python3	GLE	
 3	19.98	960048	4037830	Java	Naroslav	
+3	19.97	1371420	1585691	Rust	FerrusDude	
 3	19.97	3344383	3506819	Python3	Czejoo	
 3	19.97	1368852	1606719	C#	raysplaceinspace	
 3	19.93	3334658	3508804	Java	Aquaphobe	
 3	19.93	2592111	1848209	Python3	otisrdvk	
 3	19.9	2328488	1610257	Python3	....................	
-3	19.89	1371420	1585691	Rust	FerrusDude	
 3	19.88	1183644	1590010	C++	Donotalo	
 3	19.86	3505254	3441063	Python3	ANTSANTSANTS	
 3	19.82	870040	2690246	Python3	Tuteurtwo	
@@ -791,8 +791,8 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2735,time=2023-02-01 00:37:
 3	19.47	4277867	3709432	C++	About	
 3	19.47	1733006	1605545	C++	ztk4	
 3	19.47	523846	1587582	C#	Palmipedus	
-3	19.46	3984040	3946503	Java	ClementMateo	
 3	19.44	2618868	1858967	Java	Koppew	
+3	19.43	3984040	3946503	Java	ClementMateo	
 3	19.41	2438392	1642608	C#	Tinkel	
 3	19.39	3421837	3154565	Python3	Naindlac	
 3	19.36	1317750	1852744	Python3	zizouvb	
@@ -854,9 +854,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2735,time=2023-02-01 00:37:
 3	18.79	1753072	1592918	Python3	MrOne	
 3	18.75	4818156	4071951	Python3	Levi_Ackermann	
 3	18.74	3003044	2257695	C++	DeathArmy	
+3	18.7	2278614	1603021	Java	lumpy	
 3	18.63	1555765	1777179	C#	DewJunkie	
 3	18.62	1729733	1589749	Python3	LCernei	
-3	18.62	2278614	1603021	Java	lumpy	
 3	18.58	2200765	1599336	Java	davgast	
 3	18.52	4990135	4395821	C#	william-yh.li	
 3	18.44	1156083	1586778	Java	lukkaazz	
@@ -871,10 +871,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=2735,time=2023-02-01 00:37:
 3	18.25	4651006	3932882	C++	AntonSlavic	
 3	18.24	2522090	1837900	C#	MSmits	
 3	18.23	322737	1595745	Rust	Nangini	
-3	18.22	3535408	3072465	Python3	Astrolopitheque	
 3	18.21	1106056	1857826	Java	Bzn0r-Karloid	
 3	18.19	2253931	1588355	C	Flow_Grisu	
 3	18.19	2341005	1615621	C#	Crispy23	
+3	18.18	3535408	3072465	Python3	Astrolopitheque	
 3	18.18	1685283	1598971	Javascript	schadocalex	
 3	18.16	4114763	3478659	Java	LouisT_._._	
 3	18.13	1359547	3128875	Python3	Transat	

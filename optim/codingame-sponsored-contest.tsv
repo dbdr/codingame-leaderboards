@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=16124,time=2023-02-01 00:37:56
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=16130,time=2023-02-02 00:54:44
 100	14337	329200	C++	BlitzProg	
 100	13905	3533119	C++	wlesavo	
 100	13603	1366631	Javascript	Morhaus	
@@ -396,6 +396,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=16124,time=2023-02-01 00:37:56
 100	2694	1630890	Java	Wld	
 100	2694	1954942	C++	H.Potamus	
 100	2688	4075712	Python3	bsapozhnikov	
+100	2688	1989412	C#	Skewnart	
 100	2686	1930183	C	Bureau132	
 100	2686	1305374	C#	Frankich	
 100	2684	819803	Javascript	Anordil	
@@ -928,6 +929,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=16124,time=2023-02-01 00:37:56
 100	2532	5195449	Python3	ravikr	
 100	2532	5219322	Python3	Tankettekek	
 100	2532	5298907	Python3	TonyCHabib	
+100	2532	5212988	Python3	ojoshi	
 100	2528	1034635	C++	SlyB	
 100	2528	1740237	Python3	OlegKornelsen	
 100	2528	5078255	C#	Papa_Carlos	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=16124,time=2023-02-01 00:37:56
 100	2418	4763549	C++	BlaiseEbuth_	
 100	2416	826008	C++	Savlik5	
 100	2416	906107	Javascript	Eiknheimer	
-100	2416	4226399	Kotlin	scaythe	
-100	2414	2666222	Python3	petiteMhu	

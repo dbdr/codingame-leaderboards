@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1451,time=2023-02-01 00:37:56
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1451,time=2023-02-02 00:54:45
 100	11920	2077805	C++	bamilan	
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
@@ -302,6 +302,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1451,time=2023-02-01 00:37:56
 100	4683	2155687	Kotlin	NilsTheWizzard	
 100	4667	1415498	C++	Kirich	
 100	4663	2470677	C++	Goujon	
+100	4655	4098770	Python3	LP19	
 100	4636	2674460	Python3	Malte42	
 100	4587	865548	Python3	Kktus	
 100	4586	1464932	Java	Tiramon	
@@ -559,7 +560,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1451,time=2023-02-01 00:37:56
 100	2586	1514169	Java	dgamer	
 100	2586	3416055	Python3	ItsAFeature	
 100	2580	2411860	C++	Aurelien-Quillet	
-100	2578	4098770	Python3	LP19	
 100	2572	2642435	C++	Dude-Rocker	
 100	2564	1412263	PHP	PatrickMcGinnisII	
 100	2558	1751832	C++	buikikaesu	
@@ -841,7 +841,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1451,time=2023-02-01 00:37:56
 100	1138	2255187	PHP	rom_02	
 100	1138	307727	Python3	seb	
 100	1138	4286616	Python3	Oddrea	
-100	1138	4060722	Java	StevenV	
+100	1138	4060722	Java	GemPlatinum	
 100	1137	3123668	Python3	MattCliff	
 100	1135	1179357	Javascript	avdg	
 100	1129	3791753	Java	607	

@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=422,time=2023-02-01 00:37:58
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=422,time=2023-02-02 00:54:47
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
@@ -39,11 +39,11 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=422,time=2023-02-01 00:37:58
 100	206555	155774	C++	dwarfie	
 100	207158	3335896	C++	_martynas	
 100	207167	2007852	Lua	Zorg1	
+100	207408	5241284	C++	vital228	
 100	207602	3478673	Javascript	never-again	
 100	207940	992329	C++	BeeGee	
 100	208303	792813	Python3	VilBoub	
 100	208869	1348635	C++	ferbos	
-100	209178	5241284	C++	vital228	
 100	209198	2962968	C#	Pukunya	
 100	209203	1549856	TypeScript	Keylan	
 100	209210	1489865	C++	EricSMSO	
@@ -285,7 +285,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=422,time=2023-02-01 00:37:58
 100	250555	5103612	Python3	silent1um	
 100	250555	5103637	Python3	Grandma_coding	
 100	250555	5077862	Python3	KolokolovAlexandr	
-100	250555	4808282	Python3	MaxKuzya03	
+100	250555	4808282	Python3	MaxKuzya	
 100	250555	4122723	Python3	Hydrazer	
 100	250555	3617791	Python3	Just5MoreMinutes	
 100	250555	4551333	Python3	Darazdeblek	
