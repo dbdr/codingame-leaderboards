@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1039,time=2023-02-02 00:54:47
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1040,time=2023-02-03 00:46:46
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353552	2436448	C++	FrancoisMeme	
@@ -126,6 +126,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1039,time=2023-02-02 00:54:47
 100	3825460	1854246	C++	Counterbalance	
 100	3824732	4341304	C++	Remi.	
 100	3807092	4120837	C++	philipplenk	
+100	3681436	4073854	C++	Buk.	
 100	3668428	3817827	Go	optplx	
 100	3488032	3754066	C++	jast.e.new.name	
 100	3408688	1549856	TypeScript	Keylan	
@@ -245,7 +246,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1039,time=2023-02-02 00:54:47
 100	307404	3687134	Java	Puccre	
 100	305628	792813	Python3	VilBoub	
 100	302160	4003601	C#	Mathieu1988	
-100	300216	4073854	C++	Buk.	
 100	299136	3700430	C++	Sandivar	
 100	295132	3815413	Swift	Michael_Howard	
 100	294676	2661980	C++	Leos	
@@ -262,7 +262,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1039,time=2023-02-02 00:54:47
 100	247104	4097008	Python3	petru4io	
 100	243456	3428333	Python3	Nenad.Vukojevic	
 100	242572	3960770	C++	AndorM	
-100	241656	5114675	Python3	CoolPushak	
+100	241656	5114675	Python3	_Pushak_	
 100	237704	3123327	Javascript	Cordy	
 100	234852	3244861	Python3	0xecho	
 100	232164	3968448	Python3	Ragul02	
@@ -441,6 +441,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1039,time=2023-02-02 00:54:47
 100	59364	2802015	PHP	Psycholoveur	
 100	59284	3787419	C++	Thyl	
 100	59284	4801044	C++	mannouao	
+100	59000	4232671	C++	ramdos	
 100	58428	2592027	C#	ParticleBeam	
 100	58392	2662368	Python3	NikitaSkybytskyi	
 100	58056	3750985	Python3	vexilla72	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1039,time=2023-02-02 00:54:47
 100	344	3537383	Python3	Chihab_eddine	
 100	344	4528623	Python3	2010david	
 100	344	4819910	C#	Descko	
-100	344	3574858	Python3	lolTempest	

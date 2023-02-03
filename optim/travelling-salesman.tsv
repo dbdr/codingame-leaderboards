@@ -1,9 +1,10 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=422,time=2023-02-02 00:54:47
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=423,time=2023-02-03 00:46:46
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
 100	201382	3647844	C++	rc95401	
 100	201382	3489223	Javascript	KarloHubai	
+100	201383	5241284	C++	vital228	
 100	201384	4149818	Python3	ET_BB-8	
 100	201386	2924895	C	trictrac	
 100	201388	3354337	C++	Westicles	
@@ -39,7 +40,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=422,time=2023-02-02 00:54:47
 100	206555	155774	C++	dwarfie	
 100	207158	3335896	C++	_martynas	
 100	207167	2007852	Lua	Zorg1	
-100	207408	5241284	C++	vital228	
 100	207602	3478673	Javascript	never-again	
 100	207940	992329	C++	BeeGee	
 100	208303	792813	Python3	VilBoub	
@@ -203,6 +203,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=422,time=2023-02-02 00:54:47
 100	250070	5223936	Java		
 100	250070	4626700	PHP	JohnyDarecek	
 100	250070	4231728	C#	TojoNatolotra	
+100	250070	5075382	Java	Youneselarjouni	
 100	250215	3826720	C++	Noppo	
 100	250215	3439872	Python3	xdcomrade	
 100	250215	4585938	Python3	Risodu	
@@ -278,7 +279,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=422,time=2023-02-02 00:54:47
 100	250555	3781953	Python3	ivvv	
 100	250555	5103558	Python3	Slabinsky.Artem	
 100	250555	5103564	Python3	Katacherkashina	
-100	250555	5114675	Python3	CoolPushak	
+100	250555	5114675	Python3	_Pushak_	
 100	250555	5103636	Python3	Snow_fox	
 100	250555	5103539	Python3	MoscalT	
 100	250555	5114680	Python3	UltraEdokShaurmi	

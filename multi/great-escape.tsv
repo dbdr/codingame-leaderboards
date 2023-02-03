@@ -1,4 +1,4 @@
-League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4131,time=2023-02-02 00:51:02
+League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4131,time=2023-02-03 00:31:12
 5	33.53	494104	960105	C++	Recar	
 5	33.01	3457031	3994469	C++	YurkovAS	
 5	31.65	3533119	3994180	C++	wlesavo	
@@ -887,7 +887,6 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4131,time=2023-02-02 00:51:
 3	26.39	4276140	4083263	C++	WeZ	
 3	26.38	330929	937993	Java	shilov	
 3	26.36	1122412	938128	Java	TheNinja	
-3	26.34	884874	1627758	C	Zauberer	
 3	26.3	990157	963265	Javascript	Micrologist	
 3	26.3	1127783	937927	Python	zouzou	
 3	26.29	3274477	2325627	Java	Flynn_Taggart	
@@ -896,11 +895,12 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4131,time=2023-02-02 00:51:
 3	26.27	2115491	2494878	Javascript	Haashi	
 3	26.27	816229	1121050	Python	Gamadzila	
 3	26.26	3289937	2324831	Java	TheAgents	
+3	26.26	884874	1627758	C	Zauberer	
 3	26.26	3101644	2482638	Java	HerrHagner	
 3	26.23	1167615	1081761	C++	TylerDurden	
 3	26.23	825150	938000	Python	Laochao	
-3	26.14	1495642	1417921	Javascript	AtomCrafty	
 3	26.14	1544133	2472884	Python3	GameIt	
+3	26.14	1495642	1417921	Javascript	AtomCrafty	
 3	26.11	650779	937485	Haskell	Sparshong	
 3	26.1	440476	937946	Ruby	yowa	
 3	26.1	745612	937419	C#	bloublou	
@@ -945,9 +945,9 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4131,time=2023-02-02 00:51:
 3	25.15	271945	3975378	C++	aangairbender	
 3	25.15	569247	2062387	Python3	LaurentBouvier	
 3	25.15	810568	938195	C++	Drake	
+3	25.11	855492	937509	Go	Erk	
 3	25.07	826833	937508	C++	Hao	
 3	25.07	824766	937452	Java	knard	
-3	25.02	855492	937509	Go	Erk	
 3	25.02	370485	937470	Java	K3YM4K3R	
 3	24.99	1559667	1850428	Java	GetSchwifty	
 3	24.98	1253664	939443	Python3	Arinelle	
@@ -992,10 +992,10 @@ League	Score	UserID	AgentID	Lang	Pseudo	#multi,count=4131,time=2023-02-02 00:51:
 3	23.71	962021	937954	PHP	DJMcTom	
 3	23.69	300874	938132	Java	PeturIngiEgilsson	
 3	23.67	1469376	937710	C++	rashik004	
+3	23.66	974135	2592085	Python3	A3	
 3	23.65	3950687	3083129	Python3	vkreuz	
 3	23.64	891351	937436	C	AhmedMaher	
 3	23.64	1791716	965670	Javascript	S.lexis	
-3	23.63	974135	2592085	Python3	A3	
 3	23.58	2891206	3694334	Javascript	conrisc	
 3	23.58	186405	937535	VB.NET	d-mark	
 3	23.58	783337	937799	Javascript	Dewey	
