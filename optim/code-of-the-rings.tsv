@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6902,time=2023-02-03 00:46:43
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6906,time=2023-02-04 00:34:32
 100	2756	2288263	Rust	dbdr	
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
@@ -82,6 +82,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6902,time=2023-02-03 00:46:43
 100	3553	1131084	C#	pmod	
 100	3566	1336464	Perl	magaiti	
 100	3568	1822346	C++	Arcaseus	
+100	3568	5156547	C	Renumi	
 100	3572	1186250	C#	Gabbek	
 100	3575	3700629	Javascript	serialgg	
 100	3577	1121543	Scala	Aube	
@@ -529,6 +530,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6902,time=2023-02-03 00:46:43
 100	4825	860239	Java	Neilura	
 100	4826	3917420	Python3	trold	
 100	4831	4342942	Python3	FSL128	
+100	4839	2765655	C++	El_Mono_Sin_Sombra	
 100	4840	4338213	Python3	rfe	
 100	4847	1853772	Python3	rickert	
 100	4856	897543	C++	Peiffer-antoine	
@@ -926,7 +928,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6902,time=2023-02-03 00:46:43
 100	5821	530441	C++	Prime541	
 100	5821	3436443	Python3	Mazelcop	
 100	5824	3868172	C++	Desjardins	
-100	5825	2765655	C++	El_Mono_Sin_Sombra	
 100	5826	993630	Python3	WVN	
 100	5826	2321957	C++	Xenoid	
 100	5827	906002	C#	Artur	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6902,time=2023-02-03 00:46:43
 100	5858	1314316	Python3	jolindien	
 100	5858	2341447	Python3	algmyr	
 100	5859	1283700	C++	HectorAguirre	
-100	5859	3515090	Python3	mvv	

@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=959,time=2023-02-03 00:46:45
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=962,time=2023-02-04 00:34:34
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -526,6 +526,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=959,time=2023-02-03 00:46:45
 100	21810.570000000007	5103569	Python3	VeronikaAccel	
 100	21832.319999999996	3427517	Javascript	csysja	
 100	21848.929999999997	3255947	C#	sialino_florian	
+100	21850.24	5298641	Javascript	RTJ	
 100	21862.029999999988	1630890	Java	Wld	
 100	21872.629999999994	4866820	Python3	tinuviel60	
 100	21879.56	2445940	Java	KevLer	
@@ -958,3 +959,5 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=959,time=2023-02-03 00:46:45
 0	50000	5163410	Java	LOKI_78	
 0	50000	5298907	C++	TonyCHabib	
 0	50000	2824008	C#	OccitanieFreelancer	
+0	50000	5323506	Scala	calebbbb	
+0	50000	5323497	Python3	Kails	
