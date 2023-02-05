@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1041,time=2023-02-04 00:34:34
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1044,time=2023-02-05 00:43:29
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353552	2436448	C++	FrancoisMeme	
@@ -73,6 +73,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1041,time=2023-02-04 00:34:34
 100	10014568	4334077	C++	Paul_Demanze	
 100	10013012	3726978	C++	VirtualAtom	
 100	9607648	416894	C++	MeDev	
+100	9559164	4691447	C++	to_omoT222	
 100	9342080	775897	C++	gchebanov	
 100	9282440	3305510	PHP	TBali	
 100	9218580	3999174	C++	Shrimpster	
@@ -80,7 +81,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1041,time=2023-02-04 00:34:34
 100	8844524	4119186	C#	Rxelux	
 100	8693156	1952778	Go	blast_beat	
 100	8673672	1601217	C++	Heide	
-100	8671536	4691447	C++	to_omoT222	
 100	8627596	3770880	Java	Yu_212	
 100	8607268	3898813	C++	kouba64	
 100	8494736	311035	Go	leojean890	
@@ -116,11 +116,11 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1041,time=2023-02-04 00:34:34
 100	4731152	3738782	C#	Inaniwa	
 100	4658788	3165536	C++	barbora	
 100	4551296	2258829	C#	Hiker	
+100	4488708	4073854	C++	Buk.	
 100	4354272	1566335	Java	BeardedWhale	
 100	4330608	2629686	C#	krutovsky	
 100	4289648	4673683	C++	BartK	
 100	4235476	1719856	PHP	YOANN	
-100	4090012	4073854	C++	Buk.	
 100	4049156	4027292	C#	rmait	
 100	4025368	2089692	Scala	raxkin	
 100	3841448	1067069	Kotlin	Reiska	
@@ -859,6 +859,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1041,time=2023-02-04 00:34:34
 100	3040	4116084	Python3	grahamcracker1234	
 100	2928	1470805	Python3	holger	
 100	2832	4964181	Javascript	makariyp	
+100	2544	5317192	Python3	AlbanFredon	
 100	2484	4760013	Python3	KinaKhongs	
 100	2476	4115921	Python3	GabriSartor	
 100	2476	3250999	C	Lilia.otm	
@@ -875,6 +876,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1041,time=2023-02-04 00:34:34
 100	2224	1398275	Go	Quentin_B	
 100	2224	818314	Python3	PROrock	
 100	2224	1730827	Ruby	Hardboy	
+100	2160	5325877	Java	AnonymousF	
 100	1912	4102957	Python3	EBenoit	
 100	1904	4039182	Javascript	JoBonaire	
 100	1876	4117970	Python3	zhoubou	
@@ -997,5 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1041,time=2023-02-04 00:34:34
 100	344	2625928	C#	Leonard.	
 100	344	4367376	Python3	Squar3	
 100	344	3159485	Python3	GeneralTwi	
-100	344	3537383	Python3	Chihab_eddine	
-100	344	4528623	Python3	2010david	

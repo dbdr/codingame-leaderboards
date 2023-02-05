@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=591,time=2023-02-04 00:34:34
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=591,time=2023-02-05 00:43:29
 100	174652	3354337	Scala	Westicles	
 100	169004	154984	C++	_Royale	
 100	167588	1530051	C++	UlYoP	
@@ -283,6 +283,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=591,time=2023-02-04 00:34:34
 100	18670	1688466	C++	geoffroy	
 100	18600	1719856	PHP	YOANN	
 100	18565	4072753	C++	mdstoy	
+100	18073	1861258	Rust	Nazdhun	
 100	17842	3441957	Python3	Bastian971	
 100	17028	3305510	PHP	TBali	
 100	16681	2235616	Rust	BroneKot	
@@ -406,7 +407,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=591,time=2023-02-04 00:34:34
 100	9486	4718127	C++		
 100	9486	4612315	C++	Gerritvw	
 100	9486	3975966	C++	HoussemH	
-100	9480	1861258	Rust	Nazdhun	
 100	9444	3975507	C++	SenLai	
 100	9412	1043688	Javascript	Erebe3133123	
 100	9410	3950687	Python3	vkreuz	

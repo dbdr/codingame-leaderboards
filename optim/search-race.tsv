@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=962,time=2023-02-04 00:34:34
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=963,time=2023-02-05 00:43:29
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -632,7 +632,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=962,time=2023-02-04 00:34:34
 100	23265.46	4068639	Java	IxionTour	
 100	23295.250000000007	3497305	Python3	PyPatzer	
 100	23384.120000000003	2708267	Javascript	XyoloJR	
-100	23403.77	1348635	Ruby	ferbos	
+100	23393.19	1348635	Ruby	ferbos	
 100	23476.06999999999	4551333	Python3	Darazdeblek	
 100	23559.509999999995	1438487	Java	dawici	
 100	23580.36	3657937	Python3	elderlybeginner	
@@ -862,6 +862,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=962,time=2023-02-04 00:34:34
 68	32739.53	2390962	C++	madpro3	
 68	32739.53	4550513	Python3	bearpoohcf	
 68	32739.53	3496153	Python3	lndshs	
+68	32739.53	1653268	Go	YikeyYikes	
 68	32739.53	484004	Python3	aCat	
 68	32739.53	1232651	Javascript	Gecko404	
 68	32739.53	3668382	Go	vchapman	

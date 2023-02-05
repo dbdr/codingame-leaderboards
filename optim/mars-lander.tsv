@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6223,time=2023-02-04 00:34:31
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6228,time=2023-02-05 00:43:26
 100	2509	1327028	C++	FredericBautista	
 100	2507	154372	Bash	Plopx	
 100	2504	1249786	C#	Fededevi	
@@ -563,6 +563,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6223,time=2023-02-04 00:34:31
 100	2023	1770695	Python3	Mawox	
 100	2023	1673971	Python3	Lanken	
 100	2023	709490	Java	Sinlepuissant	
+100	2023	270881	Java	Maurice_Moss	
 100	2022	1360516	C	chym	
 100	2022	4800950	Python3	mshibatatt	
 100	2021	839539	Java	madCasper	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6223,time=2023-02-04 00:34:31
 100	1899	4730289	Python3	Claypiston	
 100	1899	4821969	Python3	grizzur	
 100	1898	504994	Java	NikitON	
-100	1898	1221642	Ruby	Nemmers	
