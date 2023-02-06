@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1453,time=2023-02-05 00:43:27
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1453,time=2023-02-06 00:40:54
 100	11920	2077805	C++	bamilan	
 100	11902	2288263	Rust	dbdr	
 100	11787	2500089	C++	Fantomat75	
@@ -436,6 +436,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1453,time=2023-02-05 00:43:27
 100	3523	4251195	Javascript	Smelty	
 100	3516	2590081	C++	Eris_C	
 100	3507	523846	C#	Palmipedus	
+100	3506	154935	Scala	yamo	
 100	3504	1274026	C#	Sethius	
 100	3500	4343764	Javascript	knknknkn	
 100	3485	4684374	Javascript	Teunisv	
@@ -602,7 +603,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1453,time=2023-02-05 00:43:27
 100	2401	686830	C#	chrisgulddahl	
 100	2397	1377805	Java	MHavlovick	
 100	2393	3503664	Python3	egos	
-100	2386	154935	Scala	yamo	
 100	2381	1528274	Ruby	BlanCap	
 100	2380	3903473	Python3	Konstant	
 100	2378	990569	C++	Srkr	

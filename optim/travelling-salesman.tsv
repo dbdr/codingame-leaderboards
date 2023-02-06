@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=428,time=2023-02-05 00:43:30
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=428,time=2023-02-06 00:40:56
 100	201382	2288263	Rust	dbdr	
 100	201382	4277867	D	About	
 100	201382	2077805	C++	bamilan	
@@ -324,6 +324,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=428,time=2023-02-05 00:43:30
 100	250555	5307134	Python3		
 100	250555	5135589	Python3	Nina05	
 100	250555	5135299	Python3	Antsurf	
+100	250555	273876	C#	JeremyLefevre	
 100	250784	1179357	Rust	avdg	
 100	251611	4954542	Python3	Drunkey	
 100	252346	4610806	C#	Nickythita	
@@ -378,7 +379,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=428,time=2023-02-05 00:43:30
 100	1945372	4595779	Haskell	wmarkham	
 100	1947232	2874091	Python3	5DN1L	
 100	1974769	5103557	Python3	Belykh	
-100	2140215	273876	C#	JeremyLefevre	
 100	2191931	2583545	C#	Kewko	
 100	2199609	2064637	Java	java_coffee_cup	
 100	2204090	481988	Kotlin	DevKirill	

@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=591,time=2023-02-05 00:43:29
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=591,time=2023-02-06 00:40:56
 100	174652	3354337	Scala	Westicles	
 100	169004	154984	C++	_Royale	
 100	167588	1530051	C++	UlYoP	
@@ -9,7 +9,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=591,time=2023-02-05 00:43:29
 100	156252	2924895	C	trictrac	
 100	155012	3235897	Java	Zylo	
 100	154816	2522090	C++	MSmits	
-100	152472	1399382	C#	Regulus136	
+100	153544	1399382	C#	Regulus136	
 100	152240	4390014	Python3	yfe42	
 100	150376	1314316	C++	jolindien	
 100	150000	2288263	Rust	dbdr	
@@ -328,6 +328,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=591,time=2023-02-05 00:43:29
 100	10279	3858550	Python3	SPDene	
 100	10263	4252924	Java	mike82	
 100	10200	174205	Python3	ElleryAree	
+100	10110	5163410	Java	LOKI_78	
 100	10108	1614797	Python3	irvcaza	
 100	10094	3603097	Javascript	lanathlor	
 100	10008	1071140	C#	BeberLeNewbie	
@@ -543,7 +544,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=591,time=2023-02-05 00:43:29
 0	470	3556476	Python3	YohanC	
 0	470	5297947	Javascript		
 0	470	5302562	Perl		
-0	470	5163410	Java	LOKI_78	
 0	470	2824008	C#	OccitanieFreelancer	
 0	437	3475739	Java	Ysp	
 0	436	4718111	Python3		

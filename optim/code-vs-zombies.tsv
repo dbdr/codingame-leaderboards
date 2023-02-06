@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=16784,time=2023-02-05 00:43:27
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=16794,time=2023-02-06 00:40:54
 100	1684640	1470017	C++	BeBopping	
 100	1469740	1399382	C#	Regulus136	
 100	1455190	351062	C++	Neumann	
@@ -454,6 +454,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=16784,time=2023-02-05 00:43:27
 100	187820	3982709	Rust	lukasjapan	
 100	187670	201919	C++	LouJo	
 100	187580	2561213	C++	anto2256	
+100	187470	3647844	C++	rc95401	
 100	187310	4323412	Java	LeProblemeEDMN	
 100	187270	2890600	C++	Surtee	
 100	187070	233834	C++	Herumor	
@@ -542,7 +543,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=16784,time=2023-02-05 00:43:27
 100	167410	3169908	Python3	Shozy	
 100	167070	5173228	Python3	OwlWithCookie	
 100	166030	4433569	Python3	nullo	
-100	165760	3647844	C++	rc95401	
 100	165740	859803	C#	stauik	
 100	165720	3774397	Java	FreezeRain	
 100	164750	3298988	C#	PotatoCoder	
@@ -640,13 +640,13 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=16784,time=2023-02-05 00:43:27
 100	137280	3760956	C++	GeekNbOne	
 100	137140	2077458	Python3	Ragi	
 100	136940	2188797	Go	comdiv	
+100	136630	3413813	Javascript	Hvosten	
 100	136020	4514305	PHP	Lauri.Kase	
 100	134980	893915	Python3	DeVoTeD	
 100	134860	1737611	Javascript	RPlusPlus	
 100	134750	1173260	Rust	Erasmus	
 100	134650	775897	C++	gchebanov	
 100	134280	2942948	C++	Tchouche	
-100	133060	3413813	Javascript	Hvosten	
 100	132630	4523276	Python3	JoCodeAvecLeQ	
 100	132420	1128769	Rust	Dwakus	
 100	132230	4081047	Javascript	Rezhay	

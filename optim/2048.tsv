@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1044,time=2023-02-05 00:43:29
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1045,time=2023-02-06 00:40:56
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353552	2436448	C++	FrancoisMeme	
@@ -61,6 +61,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1044,time=2023-02-05 00:43:29
 100	13516584	2451652	Java	code_of_the_dead	
 100	12526428	1838549	Rust	orangesnowfox	
 100	12046356	3564009	Lua	Waffle3z	
+100	11984744	4691447	C++	to_omoT222	
 100	11818960	2233179	Rust	Samsa	
 100	11727872	1050490	C++	Snark_Chaser	
 100	11486744	2837654	C++	R2B2	
@@ -73,7 +74,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1044,time=2023-02-05 00:43:29
 100	10014568	4334077	C++	Paul_Demanze	
 100	10013012	3726978	C++	VirtualAtom	
 100	9607648	416894	C++	MeDev	
-100	9559164	4691447	C++	to_omoT222	
 100	9342080	775897	C++	gchebanov	
 100	9282440	3305510	PHP	TBali	
 100	9218580	3999174	C++	Shrimpster	
@@ -415,6 +415,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1044,time=2023-02-05 00:43:29
 100	63648	4428773	Java	cheche71	
 100	63552	3906946	Python3	annaproxy	
 100	63208	5063220	C++	Busskov	
+100	63092	4859765	C++	SaibotStarve	
 100	62796	4574835	C	SmeiiRy	
 100	62768	4559916	Javascript	Karne	
 100	62768	4694923	Javascript	AntonBlockchain	
@@ -998,4 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1044,time=2023-02-05 00:43:29
 100	344	4693644	C++	rqf	
 100	344	2625928	C#	Leonard.	
 100	344	4367376	Python3	Squar3	
-100	344	3159485	Python3	GeneralTwi	
