@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=6913,time=2023-02-06 00:40:53
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=6917,time=2023-02-07 00:30:25
 100	2756	2288263	Rust	dbdr	
 100	2759	1301401	C#	Stanax	
 100	2761	1833680	C++	jvivenot	
@@ -69,11 +69,11 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6913,time=2023-02-06 00:40:53
 100	3486	1272564	Python3	Raspberry4all	
 100	3493	558770	Java	lD	
 100	3496	4493066	Python3	Polynomu	
+100	3496	5156547	C	Renumi	
 100	3504	172938	Javascript	kuzmaka	
 100	3515	1630890	Java	Wld	
 100	3523	311035	Python3	leojean890	
 100	3524	155774	PHP	dwarfie	
-100	3527	5156547	C	Renumi	
 100	3530	920987	Python3	redna70	
 100	3530	2950978	C++	icecuber	
 100	3532	1687754	Java	cg123	
@@ -258,6 +258,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6913,time=2023-02-06 00:40:53
 100	4029	3711954	Python3	kpjl	
 100	4031	826880	Java	volatilecat	
 100	4031	3226448	Python3	tobk	
+100	4035	2765655	C++	El_Mono_Sin_Sombra	
 100	4036	2093490	C++	paul.cabanes	
 100	4036	1714338	C++	cobase2010	
 100	4036	1968855	Java	ThePurificator	
@@ -286,7 +287,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6913,time=2023-02-06 00:40:53
 100	4039	4537924	C++	ArtesScytale	
 100	4041	3481298	C++	mmikhailov	
 100	4045	936661	Python3	bdvir	
-100	4049	2765655	C++	El_Mono_Sin_Sombra	
 100	4052	4053362	C#	Johan_Braanen	
 100	4059	1353260	Java	kluf	
 100	4061	915957	C	Tux	
@@ -395,6 +395,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6913,time=2023-02-06 00:40:53
 100	4366	374125	C#	FlowerCoder	
 100	4369	828317	C++	bombardier	
 100	4374	925695	OCaml	Boulet	
+100	4374	5298641	Javascript	RTJ	
 100	4375	810438	C++	Sasurai	
 100	4376	947280	C#	darkflame	
 100	4379	1654818	Python3	tarapitha	
@@ -878,7 +879,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=6913,time=2023-02-06 00:40:53
 100	5779	874507	PHP	SebastienXD	
 100	5780	4325119	Kotlin	Klimpergeist	
 100	5781	2769748	Python3	jamalou	
-100	5783	5298641	Javascript	RTJ	
 100	5784	907714	Java	Janot	
 100	5784	1787026	Javascript	xurei	
 100	5785	2538640	Python3	MrWaldron	

@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=963,time=2023-02-06 00:40:56
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=964,time=2023-02-07 00:30:27
 100	10359.64	2288263	Rust	dbdr	
 100	10367.970000000005	351062	C++	Neumann	
 100	10484.98	1400179	Python3	reCurse	
@@ -480,6 +480,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=963,time=2023-02-06 00:40:56
 100	21224.12	4761139	Python3	I.V	
 100	21230.060000000005	495252	Python3	PXke	
 100	21253.53000000001	4792959	Python3	fxfxjGghhmgffhxyiooioOij.jkbxt3	
+100	21300.3	1495122	Python3	Kaaeder	
 100	21318.35	4039884	C++	mzbear	
 100	21367.379999999994	4681014	TypeScript	Jrmc5	
 100	21369.98	1217418	Javascript	Methral	

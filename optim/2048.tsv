@@ -1,4 +1,4 @@
-Comp.	Score	UserID	Lang	Pseudo	#optim,count=1045,time=2023-02-06 00:40:56
+Comp.	Score	UserID	Lang	Pseudo	#optim,count=1052,time=2023-02-07 00:30:28
 100	62564496	2288263	Rust	dbdr	
 100	59353552	154984	C++	_Royale	
 100	59353552	2436448	C++	FrancoisMeme	
@@ -156,6 +156,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1045,time=2023-02-06 00:40:56
 100	2327896	3705601	Java	ido_the_pro	
 100	2319324	4036456	Python3	JeremSwak	
 100	2303968	1863311	C++	SDFG44	
+100	2268668	4031451	Java	pbou	
 100	2264560	4662405	Python3	helpmefindaname	
 100	2262296	2981630	C++	IHateTheIDEPlayLimit	
 100	2253844	475740	C#	Serg	
@@ -289,6 +290,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1045,time=2023-02-06 00:40:56
 100	152796	4045442	Python3	slapslash	
 100	150844	3488041	Rust	KodeMonkey	
 100	149300	4176076	C++	2134512	
+100	145340	1781044	Python3	Riemann	
 100	144428	4072753	C++	mdstoy	
 100	140156	4352240	Python3	PaptimusScirocco2	
 100	138316	4083405	C++	jzen	
@@ -358,6 +360,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1045,time=2023-02-06 00:40:56
 100	79044	3998980	Python3	bamax	
 100	78364	2709791	Python3	YOMar	
 100	78364	4075082	Python3	Loxnol	
+100	78364	5197528	Python3	ROMAIN1151	
 100	77940	3889087	Java	NaturelOUI	
 100	77480	389786	Java	menu	
 100	77248	4309574	Python3	KornDV	
@@ -444,7 +447,6 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1045,time=2023-02-06 00:40:56
 100	59284	3787419	C++	Thyl	
 100	59284	4801044	C++	mannouao	
 100	59000	4232671	C++	ramdos	
-100	58892	4031451	Java	pbou	
 100	58428	2592027	C#	ParticleBeam	
 100	58392	2662368	Python3	NikitaSkybytskyi	
 100	58056	3750985	Python3	vexilla72	
@@ -655,6 +657,7 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1045,time=2023-02-06 00:40:56
 100	31408	4183089	Python3	PringleOrange	
 100	31384	1457223	C++	jleconte	
 100	31380	4778561	C#	Msurim	
+100	31380	5198916	Python3	TTris_Rgz	
 100	31364	4300969	Javascript	thomasgonda3	
 100	31060	153957	Javascript	JeremyV42	
 100	30908	1178157	Python3	R_o_l_a_n_d	
@@ -996,6 +999,3 @@ Comp.	Score	UserID	Lang	Pseudo	#optim,count=1045,time=2023-02-06 00:40:56
 100	344	1784266	Go	Harmaguedon	
 100	344	951676	Python3	ApfelPresse	
 100	344	1579042	Ruby	Hulous	
-100	344	4693644	C++	rqf	
-100	344	2625928	C#	Leonard.	
-100	344	4367376	Python3	Squar3	
